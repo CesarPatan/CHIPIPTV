@@ -1,4 +1,46 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="EC: ECUADOR TV" tvg-logo="https://i.ibb.co/8XYpCKL/ECUADOR-TV.png" group-title="ECUADOR 2", EC: ECUADOR TV
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68851
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA INTERNACIONAL" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA INTERNACIONAL
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68852
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA QUITO" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA QUITO
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68853
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA SIERRA" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA SIERRA
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68854
+
+#EXTINF:-1 tvg-id="EC: GAMAVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/519024968a7e7b9ffb2d576356ca12b5.png" group-title="ECUADOR 2", EC: GAMAVISION HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68855
+
+#EXTINF:-1 tvg-id="EC: TELEAMAZONAS HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8fd44f7a29a44a2687d321a3afd6d1e6.png" group-title="ECUADOR 2", EC: TELEAMAZONAS HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68856
+
+#EXTINF:-1 tvg-id="EC: TC TELEVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/ff9c072d42a94d0a5112613019b54eae.png" group-title="ECUADOR 2", EC: TC TELEVISION HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68857
+
+#EXTINF:-1 tvg-id="EC : RTS SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/243653d8062248c551885f2a80f2f571.png" group-title="ECUADOR 2", EC : RTS SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68858
+
+#EXTINF:-1 tvg-id="EC: CANAL UNO HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/f6b43fbf6fd05dfe246104175d15e850.png" group-title="ECUADOR 2", EC: CANAL UNO HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68859
+
+#EXTINF:-1 tvg-id="EC: EL CANAL DEL FUTBOL FHD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8cbb628a158c65f7ef7bb83ebaa73520.png" group-title="ECUADOR 2", EC: EL CANAL DEL FUTBOL FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68860
+
+#EXTINF:-1 tvg-id="EC: GOL TV SD OP1" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP1
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68861
+
+#EXTINF:-1 tvg-id="EC: GOL TV SD OP2" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP2
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68862
+
+#EXTINF:-1 tvg-id="EC: DIRECTV" tvg-logo="http://tv.iptv5latino.cl:8080/images/3ff1a54c1a1fba3ae2747790c128abce.png" group-title="ECUADOR 2", EC: DIRECTV
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68863
+
+#EXTINF:-1 tvg-id="LIGA DE ECUADOR" tvg-logo="noimage.png" group-title="ECUADOR 2", LIGA DE ECUADOR
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68864
+
 #EXTINF:-1 tvg-id="Ecuador - Canal del Futbol FHD ( Solo Eventos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - Canal del Futbol FHD ( Solo Eventos )
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63539
 
