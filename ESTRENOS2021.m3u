@@ -323,6 +323,12 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64658.mkv
 #EXTINF:-1 tvg-id="Érase una vez en Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0YSRcw3co1roXiyCFxILxw9ndt.jpg" group-title="ESTRENOS 2021", Érase una vez en Queens (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67959.mkv
 
+#EXTINF:-1 tvg-id="El dragón de la tetera (2021)" tvg-logo="noimage.png" group-title="ESTRENOS 2021", El dragón de la tetera (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68871.mkv
+
+#EXTINF:-1 tvg-id="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="ESTRENOS 2021", Infinite (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68872.mkv
+
 #EXTINF:-1 tvg-id="Ilusiones mortales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" group-title="ESTRENOS 2021", Ilusiones mortales (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64710.mkv
 
