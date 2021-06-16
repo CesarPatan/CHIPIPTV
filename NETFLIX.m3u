@@ -131,6 +131,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/43050.mp4
 #EXTINF:-1 tvg-id="Ya no me siento a gusto en este mundo (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83F2VoxKPxVxXIB5YaxLIf5g8H0.jpg" group-title="NETFLIX PELÍCULAS", Ya no me siento a gusto en este mundo (2017)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/47551.mkv
 
+#EXTINF:-1 tvg-id="La tormenta blanca 2: Los capos de la droga (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YeESiCewZM7kpwuAyihLZhtfqP.jpg" group-title="NETFLIX PELÍCULAS", La tormenta blanca 2: Los capos de la droga (2019)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68892.mp4
+
 #EXTINF:-1 tvg-id="Apache: La vida de Carlos Tevez S01 E01" tvg-logo="http://tv.iptv5region.com:25461/images/m1niXD6sbdKzAnlKESpVPRlwfBe6PNyz.jpg" group-title="NETFLIX SERIES", Apache: La vida de Carlos Tevez S01 E01
 http://tv.iptv5latino.cl:8080/series/juan2salinas/9vy4yV5bgT/5459.mkv
 
