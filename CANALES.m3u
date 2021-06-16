@@ -620,40 +620,40 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64007
 #EXTINF:-1 tvg-id="A&E ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="CINE", A&E ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/38796
 
-#EXTINF:-1 tvg-id="aande.co" tvg-logo="https://icanadvertising.com/wp-content/uploads/2014/11/AE_Logo-whiteback.png" group-title="CINE", A&E ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="aande.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="CINE", A&E ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1722
 
-#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE", AMC
+#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="CINE", AMC
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42431
 
-#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://img2.freepng.es/20180707/jpa/kisspng-amc-television-show-television-channel-satellite-t-capri-sun-logo-5b41563d260ac7.8445182315310085731558.jpg" group-title="CINE", AMC ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="amc.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="CINE", AMC ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40116
 
-#EXTINF:-1 tvg-id="AXN LATINO ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE", AXN LATINO ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="AXN LATINO ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg" group-title="CINE", AXN LATINO ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1725
 
-#EXTINF:-1 tvg-id="AXN WHITE ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE", AXN WHITE ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="AXN WHITE ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" group-title="CINE", AXN WHITE ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39835
 
-#EXTINF:-1 tvg-id="axnwhite.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/1200px-AXN_White_logo_%282015%29.svg.png" group-title="CINE", AXN WHITE ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="axnwhite.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/AXN_White_logo_%282015%29.svg" group-title="CINE", AXN WHITE ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42433
 
-#EXTINF:-1 tvg-id="axn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="axn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg" group-title="CINE", AXN ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42432
 
-#EXTINF:-1 tvg-id="axn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png" group-title="CINE", AXN ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="axn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/AXN_logo_%282015%29.svg" group-title="CINE", AXN ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/27591
 
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE", CINE AR ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Cine.Ar_logo.svg" group-title="CINE", CINE AR ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55009
 
-#EXTINF:-1 tvg-id="CINE AR ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/1280px-Cine.Ar_logo.svg.png" group-title="CINE", CINE AR ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="CINE AR ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Cine.Ar_logo.svg" group-title="CINE", CINE AR ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/43018
 
-#EXTINF:-1 tvg-id="cinecanal.co" tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE", CINECANAL ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="cinecanal.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE", CINECANAL ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1726
 
-#EXTINF:-1 tvg-id="CINECANAL ⁽ᴴᴰ⁾" tvg-logo="https://fotos.subefotos.com/014da2aa35f7f21d8815dd856f9c6298o.png" group-title="CINE", CINECANAL ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="CINECANAL ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="CINE", CINECANAL ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17334
 
 #EXTINF:-1 tvg-id="CINELATINO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE", CINELATINO
@@ -665,208 +665,208 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55012
 #EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png" group-title="CINE", CINELATINO ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42436
 
-#EXTINF:-1 tvg-id="CINEMAX ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE", CINEMAX ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="CINEMAX ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="CINE", CINEMAX ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17335
 
-#EXTINF:-1 tvg-id="CINEMAX ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cinemax_LA.png/800px-Cinemax_LA.png" group-title="CINE", CINEMAX ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="CINEMAX ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Cinemax_%28Yellow%29.svg" group-title="CINE", CINEMAX ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1727
 
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="CINE", CLARO CINEMA
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png?fm=webp&q=80" group-title="CINE", CLARO CINEMA
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42437
 
-#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/cine/d-plus.png" group-title="CINE", DE PELICULA PLUS
+#EXTINF:-1 tvg-id="depeliculahd.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/DPel%C3%ADcula_2021.svg" group-title="CINE", DE PELICULA PLUS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42434
 
-#EXTINF:-1 tvg-id="DE PELICULA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="CINE", DE PELICULA ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="DE PELICULA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/00/DPel%C3%ADcula_2021.svg" group-title="CINE", DE PELICULA ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1728
 
-#EXTINF:-1 tvg-id="DHE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE", DHE ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="DHE ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/2020_Canal_DHE_logo.svg" group-title="CINE", DHE ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55011
 
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="CINE", DHE ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/2020_Canal_DHE_logo.svg" group-title="CINE", DHE ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55010
 
 #EXTINF:-1 tvg-id="EUROPA EUROPA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE", EUROPA EUROPA
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/51475
 
-#EXTINF:-1 tvg-id="FOX CHANNEL" tvg-logo="https://www.stickpng.com/assets/images/5842f04ea6515b1e0ad75b14.png" group-title="CINE", FOX CHANNEL
+#EXTINF:-1 tvg-id="FOX CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="CINE", FOX CHANNEL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15925
 
-#EXTINF:-1 tvg-id="foxchannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1280px-FOX-Channel-Germany.svg.png" group-title="CINE", FOX CHANNEL (ᴍᴇxɪᴄᴏ)
+#EXTINF:-1 tvg-id="foxchannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="CINE", FOX CHANNEL (ᴍᴇxɪᴄᴏ)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53539
 
-#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/1200px-FOX_wordmark-orange.svg.png" group-title="CINE", FOX CHANNEL SUR
+#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="CINE", FOX CHANNEL SUR
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1738
 
-#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="CINE", FOX LIFE (ᴍᴇxɪᴄᴏ)
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg" group-title="CINE", FOX LIFE (ᴍᴇxɪᴄᴏ)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1730
 
-#EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Fox_Life_pt_logo.PNG" group-title="CINE", FOX LIFE (ᴍᴇxɪᴄᴏ) ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg" group-title="CINE", FOX LIFE (ᴍᴇxɪᴄᴏ) ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42435
 
-#EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Fox_life_it.png" group-title="CINE", FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
+#EXTINF:-1 tvg-id="foxlife.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Star_Life_2021.svg" group-title="CINE", FOX LIFE HD ⁽ᶜᵒˡᵒᵐᵇⁱᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55015
 
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION (col)" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_ACTIONHD.png" group-title="CINE", FOX PREMIUM ACTION (col)
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION (col)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg" group-title="CINE", FOX PREMIUM ACTION (col)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33356
 
-#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://lh3.googleusercontent.com/proxy/GkA-72QtDAPTlbGXKLf5EYCz3aFlaMTBMIU-sNm_hhE0kZotKxCL-FVmN7cSOx2HBmUPCyhHPBa85rvkP3mM3uBuitcwur23OwX3Tz75qzcA7FIWc1ws787bNkJkS_UOkezaEHHWFmFK1GiMVQ797qtN" group-title="CINE", FOX PREMIUM ACTION (ᴍᴇxɪᴄᴏ)
+#EXTINF:-1 tvg-id="foxaction.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg" group-title="CINE", FOX PREMIUM ACTION (ᴍᴇxɪᴄᴏ)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55016
 
-#EXTINF:-1 tvg-id="FOX PREMIUM ACTION ⁽ᵃ⁾" tvg-logo="https://lh3.googleusercontent.com/proxy/GkA-72QtDAPTlbGXKLf5EYCz3aFlaMTBMIU-sNm_hhE0kZotKxCL-FVmN7cSOx2HBmUPCyhHPBa85rvkP3mM3uBuitcwur23OwX3Tz75qzcA7FIWc1ws787bNkJkS_UOkezaEHHWFmFK1GiMVQ797qtN" group-title="CINE", FOX PREMIUM ACTION ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="FOX PREMIUM ACTION ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg" group-title="CINE", FOX PREMIUM ACTION ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1731
 
-#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA ⁽ᴴᴰ⁾" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="CINE", FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="FOX PREMIUM CINEMA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg" group-title="CINE", FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1732
 
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_CINEMA.png" group-title="CINE", FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg" group-title="CINE", FOX PREMIUM CINEMA ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33357
 
-#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS ⁽ᵃ⁾" tvg-logo="https://www.movistar.com.ec/documents/581447/2053920/fox-classics.png" group-title="CINE", FOX PREMIUM CLASSICS ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="FOX PREMIUM CLASSICS ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Star_Classics_2020.svg" group-title="CINE", FOX PREMIUM CLASSICS ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1733
 
-#EXTINF:-1 tvg-id="foxclassics.la" tvg-logo="https://forounivers.com/uploads/monthly_2017_02/large.fox-classics-blanco.png.2a5287bef8ed0158113e790a3009165a.png" group-title="CINE", FOX PREMIUM CLASSICS ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="foxclassics.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Star_Classics_2020.svg" group-title="CINE", FOX PREMIUM CLASSICS ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33358
 
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY" tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/9447cce0f02d4b2c899f202467c0293e_1/version/15/width/282/height/158/quality/100" group-title="CINE", FOX PREMIUM COMEDY
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Star_Comedy_2020.svg" group-title="CINE", FOX PREMIUM COMEDY
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1734
 
-#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/FOX-Premium-Comedy-Logo-300x98.png" group-title="CINE", FOX PREMIUM COMEDY ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="FOX PREMIUM COMEDY ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Star_Comedy_2020.svg" group-title="CINE", FOX PREMIUM COMEDY ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33359
 
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY" tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/LOGO-FOXPREMIUM_FAMILY.png" group-title="CINE", FOX PREMIUM FAMILY
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Star_Fun_2020.svg" group-title="CINE", FOX PREMIUM FAMILY
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1735
 
-#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png" group-title="CINE", FOX PREMIUM FAMILY ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="FOX PREMIUM FAMILY ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Star_Fun_2020.svg" group-title="CINE", FOX PREMIUM FAMILY ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33360
 
-#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES" tvg-logo="https://www.telecablecr.com/wp-content/uploads/2018/11/LOGO-FOXPREMIUM_MOVIES.png" group-title="CINE", FOX PREMIUM MOVIES
+#EXTINF:-1 tvg-id="FOX PREMIUM MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Star_Hits_2020.svg" group-title="CINE", FOX PREMIUM MOVIES
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33361
 
-#EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://www.movistar.com.ec/documents/581447/2053920/fox-movies.png" group-title="CINE", FOX PREMIUM MOVIES ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="foxmovies.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Star_Hits_2020.svg" group-title="CINE", FOX PREMIUM MOVIES ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1736
 
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="CINE", FOX PREMIUM SERIES
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Star_Series_2020.svg" group-title="CINE", FOX PREMIUM SERIES
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1737
 
-#EXTINF:-1 tvg-id="FOX PREMIUM SERIES ⁽ᴴᴰ⁾" tvg-logo="https://i.pinimg.com/originals/f2/7b/3f/f27b3fc1e773fd94e247b844f174b2f7.png" group-title="CINE", FOX PREMIUM SERIES ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="FOX PREMIUM SERIES ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Star_Series_2020.svg" group-title="CINE", FOX PREMIUM SERIES ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16177
 
 #EXTINF:-1 tvg-id="FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="CINE", FX
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1739
 
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="CINE", FX MOVIES ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="CINE", FX MOVIES ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15713
 
-#EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/FXM_Logo.svg" group-title="CINE", FXM
+#EXTINF:-1 tvg-id="FXM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FX_Movies_logo.svg" group-title="CINE", FXM
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1740
 
-#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png" group-title="CINE", GOLDEN
+#EXTINF:-1 tvg-id="GOLDEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Canal_Golden_logo.svg" group-title="CINE", GOLDEN
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1743
 
-#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="http://www.cablered.tv/wp-content/uploads/2018/08/Golden-Edge.png" group-title="CINE", GOLDEN EDGE
+#EXTINF:-1 tvg-id="GOLDEN EDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="CINE", GOLDEN EDGE
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1741
 
-#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="noimage.png" group-title="CINE", GOLDEN PLUS
+#EXTINF:-1 tvg-id="GOLDEN PLUS" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_plus-mediano.png" group-title="CINE", GOLDEN PLUS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1742
 
-#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="http://www.mundo-latam.argentina-buenos-aires.arrecifesciudad.com/onewin/origen/baypro/imagenes/logos-tv/golden-premier.png" group-title="CINE", GOLDEN PREMIER
+#EXTINF:-1 tvg-id="GOLDEN PREMIER" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/golden_premier-mediano.png" group-title="CINE", GOLDEN PREMIER
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/10870
 
-#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/HBO_2_Logo.png/125px-HBO_2_Logo.png" group-title="CINE", HBO 2
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="CINE", HBO 2
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1745
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CINE", HBO FAMILY
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1746
 
-#EXTINF:-1 tvg-id="hbo.la" tvg-logo="http://www.arrecifesciudad.com/muluni/imagenes/logos-tv/hbo.png" group-title="CINE", HBO latino
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Latino_Logo.svg" group-title="CINE", HBO latino
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1744
 
-#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", HBO latino
+#EXTINF:-1 tvg-id="hbo.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/HBO_Latino_Logo.svg" group-title="CINE", HBO latino
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/45651
 
-#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="noimage.png" group-title="CINE", HBO MUNDI
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/HBO_Mundi.svg" group-title="CINE", HBO MUNDI
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1750
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://i.pinimg.com/originals/c7/6f/24/c76f24d8dff0df01af6152f05ccb7a9c.png" group-title="CINE", HBO PLUS
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Logohboplus2019.svg" group-title="CINE", HBO PLUS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1747
 
-#EXTINF:-1 tvg-id="HBO POP" tvg-logo="noimage.png" group-title="CINE", HBO POP
+#EXTINF:-1 tvg-id="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/HBO_Pop.svg" group-title="CINE", HBO POP
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1751
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="CINE", HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="CINE", HBO SIGNATURE
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1748
 
-#EXTINF:-1 tvg-id="HBO subtitulado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", HBO subtitulado
+#EXTINF:-1 tvg-id="HBO subtitulado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="CINE", HBO subtitulado
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33362
 
-#EXTINF:-1 tvg-id="HBO usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1280px-HBO_logo.svg.png" group-title="CINE", HBO usa
+#EXTINF:-1 tvg-id="HBO usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="CINE", HBO usa
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33363
 
-#EXTINF:-1 tvg-id="HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE", HBO XTREAM
+#EXTINF:-1 tvg-id="HBO XTREAM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="CINE", HBO XTREAM
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1749
 
-#EXTINF:-1 tvg-id="maxprime.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="CINE", HBO XTREME ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="maxprime.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="CINE", HBO XTREME ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/43223
 
-#EXTINF:-1 tvg-id="MoviePlex FHD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/movieplex.png" group-title="CINE", MoviePlex FHD
+#EXTINF:-1 tvg-id="MoviePlex FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Movieplex_logo.svg" group-title="CINE", MoviePlex FHD
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54869
 
 #EXTINF:-1 tvg-id="movistaraccion.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Movistar_Acci%C3%B3n.svg" group-title="CINE", MOVISTAR ACCION ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/43355
 
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Movistar_DCine.svg/1200px-Movistar_DCine.svg.png" group-title="CINE", MOVISTAR DCINE
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Movistar_Drama.svg" group-title="CINE", MOVISTAR DCINE
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42438
 
-#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Paramount_Pictures_2020.svg/1200px-Paramount_Pictures_2020.svg.png" group-title="CINE", PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="PARAMOUNT CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Paramount_Network_logo.png" group-title="CINE", PARAMOUNT CHANNEL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1752
 
-#EXTINF:-1 tvg-id="SONY CHANNEL ⁽ᵃ⁾" tvg-logo="noimage.png" group-title="CINE", SONY CHANNEL ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="SONY CHANNEL ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="CINE", SONY CHANNEL ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1753
 
-#EXTINF:-1 tvg-id="SPACE CHANNEL" tvg-logo="https://img.favpng.com/19/12/24/space-television-channel-streaming-television-turner-broadcasting-system-png-favpng-1FPC99JnRrFWDQZTt9PMTPPj7.jpg" group-title="CINE", SPACE CHANNEL
+#EXTINF:-1 tvg-id="SPACE CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/SpaceLogo.svg" group-title="CINE", SPACE CHANNEL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1754
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="CINE", STUDIO UNIVERSAL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1755
 
-#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Studio_Universal.svg/418px-Studio_Universal.svg.png" group-title="CINE", STUDIO UNIVERSAL
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png" group-title="CINE", STUDIO UNIVERSAL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15714
 
-#EXTINF:-1 tvg-id="SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾" tvg-logo="noimage.png" group-title="CINE", SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="CINE", SUNDANCE TV ⁽ᴴᴰ⁾ ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1756
 
-#EXTINF:-1 tvg-id="SYFY CHANNEL" tvg-logo="https://sarapanacea.files.wordpress.com/2018/05/logo-syfy.png" group-title="CINE", SYFY CHANNEL
+#EXTINF:-1 tvg-id="SYFY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/SYFY.svg" group-title="CINE", SYFY CHANNEL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1757
 
-#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1280px-TBS_logo_2016.svg.png" group-title="CINE", TBS
+#EXTINF:-1 tvg-id="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TBS_logo_2016.svg" group-title="CINE", TBS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1758
 
-#EXTINF:-1 tvg-id="TCM" tvg-logo="https://canaltcm.com/wp-content/uploads/2019/04/tcm-icon.png" group-title="CINE", TCM
+#EXTINF:-1 tvg-id="TCM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TCM_Latam_logo.svg" group-title="CINE", TCM
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1759
 
-#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="CINE", TNT
+#EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="CINE", TNT
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67559
 
-#EXTINF:-1 tvg-id="TNT SERIES ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="CINE", TNT SERIES ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="TNT SERIES ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE", TNT SERIES ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1761
 
-#EXTINF:-1 tvg-id="TNT SERIES ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="CINE", TNT SERIES ⁽ᴴᴰ⁾
+#EXTINF:-1 tvg-id="TNT SERIES ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE", TNT SERIES ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33355
 
-#EXTINF:-1 tvg-id="TNT ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="CINE", TNT ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="TNT ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="CINE", TNT ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1760
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://img.favpng.com/20/3/19/logo-universal-channel-high-definition-television-olympic-channel-television-channel-png-favpng-Ccy9yJYxAwy2cMvuU5UfFb5yy_t.jpg" group-title="CINE", UNIVERSAL CHANNEL
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_TV_logo.svg" group-title="CINE", UNIVERSAL CHANNEL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1762
 
-#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ⁽ᵃ⁾" tvg-logo="https://img.favpng.com/20/3/19/logo-universal-channel-high-definition-television-olympic-channel-television-channel-png-favpng-Ccy9yJYxAwy2cMvuU5UfFb5yy_t.jpg" group-title="CINE", UNIVERSAL CHANNEL ⁽ᵃ⁾
+#EXTINF:-1 tvg-id="UNIVERSAL CHANNEL ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_TV_logo.svg" group-title="CINE", UNIVERSAL CHANNEL ⁽ᵃ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17337
 
-#EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="CINE", UNIVERSAL TV
+#EXTINF:-1 tvg-id="UNIVERSAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/Universal_TV_logo.svg" group-title="CINE", UNIVERSAL TV
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16736
 
-#EXTINF:-1 tvg-id="WARNER TV" tvg-logo="noimage.png" group-title="CINE", WARNER TV
+#EXTINF:-1 tvg-id="WARNER TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", WARNER TV
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64880
 
 #EXTINF:-1 tvg-id="WARNER TV ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", WARNER TV ⁽ᴴᴰ⁾
