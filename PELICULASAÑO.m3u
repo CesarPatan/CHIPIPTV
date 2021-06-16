@@ -1766,6 +1766,15 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/60451.mkv
 #EXTINF:-1 tvg-id="¡Scooby! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5bVzqrUZscKxNvXPBtrMHVKLU0.jpg" group-title="PELICULAS 2020", ¡Scooby! (2020)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/40924.mkv
 
+#EXTINF:-1 tvg-id="Otra ronda (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIsfoGihrmtOQZ7JtgxOc59V9ix.jpg" group-title="PELICULAS 2020", Otra ronda (2020)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68888.mp4
+
+#EXTINF:-1 tvg-id="Rompiendo las normas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRzjOm1ZehUKWUHaXFv8Rhnde7P.jpg" group-title="PELICULAS 2020", Rompiendo las normas (2020)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68889.mkv
+
+#EXTINF:-1 tvg-id="La presencia (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPVtenreQgmNfK529LpGtYTxWqI.jpg" group-title="PELICULAS 2020", La presencia (2020)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68891.mp4
+
 #EXTINF:-1 tvg-id="1517 Tren a París (2018)" tvg-logo="http://tv.iptv5latino.cl:8080/images/f8c93e2f04958708af20ba6c4dba79e3.jpg" group-title="PELIS 2019-2018", 1517 Tren a París (2018)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/59378.mp4
 
