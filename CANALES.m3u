@@ -1,46 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EC: ECUADOR TV" tvg-logo="https://i.ibb.co/8XYpCKL/ECUADOR-TV.png" group-title="ECUADOR 2", EC: ECUADOR TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68851
-
-#EXTINF:-1 tvg-id="EC: ECUAVISA INTERNACIONAL" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA INTERNACIONAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68852
-
-#EXTINF:-1 tvg-id="EC: ECUAVISA QUITO" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA QUITO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68853
-
-#EXTINF:-1 tvg-id="EC: ECUAVISA SIERRA" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA SIERRA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68854
-
-#EXTINF:-1 tvg-id="EC: GAMAVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/519024968a7e7b9ffb2d576356ca12b5.png" group-title="ECUADOR 2", EC: GAMAVISION HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68855
-
-#EXTINF:-1 tvg-id="EC: TELEAMAZONAS HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8fd44f7a29a44a2687d321a3afd6d1e6.png" group-title="ECUADOR 2", EC: TELEAMAZONAS HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68856
-
-#EXTINF:-1 tvg-id="EC: TC TELEVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/ff9c072d42a94d0a5112613019b54eae.png" group-title="ECUADOR 2", EC: TC TELEVISION HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68857
-
-#EXTINF:-1 tvg-id="EC : RTS SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/243653d8062248c551885f2a80f2f571.png" group-title="ECUADOR 2", EC : RTS SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68858
-
-#EXTINF:-1 tvg-id="EC: CANAL UNO HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/f6b43fbf6fd05dfe246104175d15e850.png" group-title="ECUADOR 2", EC: CANAL UNO HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68859
-
-#EXTINF:-1 tvg-id="EC: EL CANAL DEL FUTBOL FHD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8cbb628a158c65f7ef7bb83ebaa73520.png" group-title="ECUADOR 2", EC: EL CANAL DEL FUTBOL FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68860
-
-#EXTINF:-1 tvg-id="EC: GOL TV SD OP1" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP1
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68861
-
-#EXTINF:-1 tvg-id="EC: GOL TV SD OP2" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68862
-
-#EXTINF:-1 tvg-id="EC: DIRECTV" tvg-logo="http://tv.iptv5latino.cl:8080/images/3ff1a54c1a1fba3ae2747790c128abce.png" group-title="ECUADOR 2", EC: DIRECTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68863
-
-#EXTINF:-1 tvg-id="LIGA DE ECUADOR" tvg-logo="noimage.png" group-title="ECUADOR 2", LIGA DE ECUADOR
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68864
-
 #EXTINF:-1 tvg-id="Ecuador - Canal del Futbol FHD ( Solo Eventos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - Canal del Futbol FHD ( Solo Eventos )
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63539
 
@@ -148,6 +106,48 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54995
 
 #EXTINF:-1 tvg-id="GOL TV ⁽ᴴᴰ⁾" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", GOL TV ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54996
+
+#EXTINF:-1 tvg-id="EC: ECUADOR TV" tvg-logo="https://i.ibb.co/8XYpCKL/ECUADOR-TV.png" group-title="ECUADOR 2", EC: ECUADOR TV
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68851
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA INTERNACIONAL" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA INTERNACIONAL
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68852
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA QUITO" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA QUITO
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68853
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA SIERRA" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA SIERRA
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68854
+
+#EXTINF:-1 tvg-id="EC: GAMAVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/519024968a7e7b9ffb2d576356ca12b5.png" group-title="ECUADOR 2", EC: GAMAVISION HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68855
+
+#EXTINF:-1 tvg-id="EC: TELEAMAZONAS HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8fd44f7a29a44a2687d321a3afd6d1e6.png" group-title="ECUADOR 2", EC: TELEAMAZONAS HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68856
+
+#EXTINF:-1 tvg-id="EC: TC TELEVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/ff9c072d42a94d0a5112613019b54eae.png" group-title="ECUADOR 2", EC: TC TELEVISION HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68857
+
+#EXTINF:-1 tvg-id="EC : RTS SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/243653d8062248c551885f2a80f2f571.png" group-title="ECUADOR 2", EC : RTS SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68858
+
+#EXTINF:-1 tvg-id="EC: CANAL UNO HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/f6b43fbf6fd05dfe246104175d15e850.png" group-title="ECUADOR 2", EC: CANAL UNO HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68859
+
+#EXTINF:-1 tvg-id="EC: EL CANAL DEL FUTBOL FHD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8cbb628a158c65f7ef7bb83ebaa73520.png" group-title="ECUADOR 2", EC: EL CANAL DEL FUTBOL FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68860
+
+#EXTINF:-1 tvg-id="EC: GOL TV SD OP1" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP1
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68861
+
+#EXTINF:-1 tvg-id="EC: GOL TV SD OP2" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP2
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68862
+
+#EXTINF:-1 tvg-id="EC: DIRECTV" tvg-logo="http://tv.iptv5latino.cl:8080/images/3ff1a54c1a1fba3ae2747790c128abce.png" group-title="ECUADOR 2", EC: DIRECTV
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68863
+
+#EXTINF:-1 tvg-id="LIGA DE ECUADOR" tvg-logo="noimage.png" group-title="ECUADOR 2", LIGA DE ECUADOR
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68864
 
 #EXTINF:-1 tvg-id="24 HRS  Canito y Canuto (PS)" tvg-logo="http://tv.iptv5latino.cl:8000/images/17426df5b8053e206f0a1890cd326487.png" group-title="24/7", 24 HRS  Canito y Canuto (PS)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64023
@@ -2411,12 +2411,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61684
 #EXTINF:-1 tvg-id="tycsports.la" tvg-logo="https://play.tycsports.com/static/logo-blue-tyc.svg" group-title="DEPORTES", TYC SPORTS ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/14868
 
-#EXTINF:-1 tvg-id="UFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="DEPORTES", UFC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/626
-
-#EXTINF:-1 tvg-id="UFC EVENTOS" tvg-logo="noimage.png" group-title="DEPORTES", UFC EVENTOS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55271
-
 #EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES", UFC FIGH PASS HD
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55008
 
@@ -2425,6 +2419,9 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61462
 
 #EXTINF:-1 tvg-id="UFC FIGHT PASS" tvg-logo="https://ufc-video.s3.amazonaws.com/image/logos/UFC_FIGHTPASS_LOGO_F.PNG" group-title="DEPORTES", UFC FIGHT PASS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15724
+
+#EXTINF:-1 tvg-id="UFC HD (tv.c)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/UFC_Logo.png" group-title="DEPORTES", UFC HD (tv.c)
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/626
 
 #EXTINF:-1 tvg-id="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="DEPORTES", VTV
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55390
@@ -2441,7 +2438,7 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55389
 #EXTINF:-1 tvg-id="WIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="DEPORTES", WIN SPORTS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1035
 
-#EXTINF:-1 tvg-id="WIN SPORTS  + HD+" tvg-logo="noimage.png" group-title="DEPORTES", WIN SPORTS  + HD+
+#EXTINF:-1 tvg-id="WIN SPORTS  + (HD)" tvg-logo="noimage.png" group-title="DEPORTES", WIN SPORTS  + (HD)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63063
 
 #EXTINF:-1 tvg-id="WIN SPORTS + SD+" tvg-logo="https://www.tavilatam.com/wp-content/uploads/2020/03/TAVI_WinSports.png" group-title="DEPORTES", WIN SPORTS + SD+
@@ -3659,23 +3656,20 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65701
 #EXTINF:-1 tvg-id="NBA 03" tvg-logo="http://pngimg.com/uploads/nba/nba_PNG6.png" group-title="PPV NBA", NBA 03
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67969
 
-#EXTINF:-1 tvg-id="NBA 04" tvg-logo="noimage.png" group-title="PPV NBA", NBA 04
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65702
-
-#EXTINF:-1 tvg-id="NBA 05" tvg-logo="http://pngimg.com/uploads/nba/nba_PNG6.png" group-title="PPV NBA", NBA 05
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67971
-
-#EXTINF:-1 tvg-id="NBA 07" tvg-logo="http://pngimg.com/uploads/nba/nba_PNG6.png" group-title="PPV NBA", NBA 07
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67970
+#EXTINF:-1 tvg-id="NBA Game 01" tvg-logo="https://img.olympicchannel.com/images/image/private/t_16-9_360-203_2x/f_auto/v1538355600/primary/qre6wzsmkvlo6gjdivnd" group-title="PPV NBA", NBA Game 01
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68880
 
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-logo="noimage.png" group-title="PPV NBA", NBA TV HD
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65703
 
-#EXTINF:-1 tvg-id="NBCS BAY AREA" tvg-logo="noimage.png" group-title="PPV NBA", NBCS BAY AREA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65698
-
 #EXTINF:-1 tvg-id="USA SPORTS: NBA GAMES 1" tvg-logo="noimage.png" group-title="PPV NBA", USA SPORTS: NBA GAMES 1
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65699
+
+#EXTINF:-1 tvg-id="Brooklyn Nets - Milwaukee Bucks (FHD)" tvg-logo="https://img.olympicchannel.com/images/image/private/t_16-9_360-203_2x/f_auto/v1538355600/primary/qre6wzsmkvlo6gjdivnd" group-title="PPV NBA", Brooklyn Nets - Milwaukee Bucks (FHD)
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68881
+
+#EXTINF:-1 tvg-id="Brooklyn Nets - Milwaukee Bucks (HD)" tvg-logo="https://img.olympicchannel.com/images/image/private/t_16-9_360-203_2x/f_auto/v1538355600/primary/qre6wzsmkvlo6gjdivnd" group-title="PPV NBA", Brooklyn Nets - Milwaukee Bucks (HD)
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68882
 
 #EXTINF:-1 tvg-id="NFL Game 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="PPV NFL", NFL Game 1
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57587
@@ -3817,315 +3811,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67575
 
 #EXTINF:-1 tvg-id="RD:SD TELEUNION" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD:SD TELEUNION
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67577
-
-#EXTINF:-1 tvg-id="SE: 4 Fakta" tvg-logo="noimage.png" group-title="SUECIA", SE: 4 Fakta
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66809
-
-#EXTINF:-1 tvg-id="SE: ANIMAL PLANET FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: ANIMAL PLANET FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66811
-
-#EXTINF:-1 tvg-id="SE: ATG Live" tvg-logo="noimage.png" group-title="SUECIA", SE: ATG Live
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66812
-
-#EXTINF:-1 tvg-id="SE: Barnmusik TV FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Barnmusik TV FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66813
-
-#EXTINF:-1 tvg-id="SE: BBC Earth FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: BBC Earth FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66815
-
-#EXTINF:-1 tvg-id="SE: BBC WORLD NEWS" tvg-logo="noimage.png" group-title="SUECIA", SE: BBC WORLD NEWS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66816
-
-#EXTINF:-1 tvg-id="SE: BLOOMBERG" tvg-logo="noimage.png" group-title="SUECIA", SE: BLOOMBERG
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66817
-
-#EXTINF:-1 tvg-id="SE: BOOMERANG HD" tvg-logo="noimage.png" group-title="SUECIA", SE: BOOMERANG HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66818
-
-#EXTINF:-1 tvg-id="SE: COMEDY CENTRAL HD" tvg-logo="noimage.png" group-title="SUECIA", SE: COMEDY CENTRAL HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66819
-
-#EXTINF:-1 tvg-id="SE: Dagens Industri TV" tvg-logo="noimage.png" group-title="SUECIA", SE: Dagens Industri TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66820
-
-#EXTINF:-1 tvg-id="SE: Discovery Channel HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Discovery Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66821
-
-#EXTINF:-1 tvg-id="SE: Discovery Science HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Discovery Science HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66822
-
-#EXTINF:-1 tvg-id="SE: Discovery World HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Discovery World HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66823
-
-#EXTINF:-1 tvg-id="SE: Disney Channel HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Disney Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66824
-
-#EXTINF:-1 tvg-id="SE: Disney Jr" tvg-logo="noimage.png" group-title="SUECIA", SE: Disney Jr
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66825
-
-#EXTINF:-1 tvg-id="SE: Disney XD" tvg-logo="noimage.png" group-title="SUECIA", SE: Disney XD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66826
-
-#EXTINF:-1 tvg-id="SE: Disney+ HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Disney+ HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66827
-
-#EXTINF:-1 tvg-id="SE: E! HD" tvg-logo="noimage.png" group-title="SUECIA", SE: E! HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66828
-
-#EXTINF:-1 tvg-id="SE: EXPRESSEN TV" tvg-logo="noimage.png" group-title="SUECIA", SE: EXPRESSEN TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66829
-
-#EXTINF:-1 tvg-id="SE: FIGHT Sports" tvg-logo="noimage.png" group-title="SUECIA", SE: FIGHT Sports
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66830
-
-#EXTINF:-1 tvg-id="SE: H2 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: H2 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66831
-
-#EXTINF:-1 tvg-id="SE: Himlen TV7 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Himlen TV7 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66832
-
-#EXTINF:-1 tvg-id="SE: History Channel HD" tvg-logo="noimage.png" group-title="SUECIA", SE: History Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66833
-
-#EXTINF:-1 tvg-id="SE: HORSE & COUNTRY TV" tvg-logo="noimage.png" group-title="SUECIA", SE: HORSE & COUNTRY TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66834
-
-#EXTINF:-1 tvg-id="SE: I Discovery Sverige" tvg-logo="noimage.png" group-title="SUECIA", SE: I Discovery Sverige
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66835
-
-#EXTINF:-1 tvg-id="SE: Investigation Discovery HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Investigation Discovery HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66836
-
-#EXTINF:-1 tvg-id="SE: Kanal 10 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Kanal 10 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66840
-
-#EXTINF:-1 tvg-id="SE: Kanal 11 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Kanal 11 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66841
-
-#EXTINF:-1 tvg-id="SE: Kanal 5 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Kanal 5 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66837
-
-#EXTINF:-1 tvg-id="SE: Kanal 5 Sverige" tvg-logo="noimage.png" group-title="SUECIA", SE: Kanal 5 Sverige
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66838
-
-#EXTINF:-1 tvg-id="SE: kanal 9 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: kanal 9 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66839
-
-#EXTINF:-1 tvg-id="SE: KUNSKAPS KANALEN HD" tvg-logo="noimage.png" group-title="SUECIA", SE: KUNSKAPS KANALEN HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66842
-
-#EXTINF:-1 tvg-id="SE: Kunskapskanalen FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Kunskapskanalen FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66843
-
-#EXTINF:-1 tvg-id="SE: Mission Asia" tvg-logo="noimage.png" group-title="SUECIA", SE: Mission Asia
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66844
-
-#EXTINF:-1 tvg-id="SE: Motorsport.TV HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Motorsport.TV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66845
-
-#EXTINF:-1 tvg-id="SE: MTV HD" tvg-logo="noimage.png" group-title="SUECIA", SE: MTV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66846
-
-#EXTINF:-1 tvg-id="SE: MTV MUSIC" tvg-logo="noimage.png" group-title="SUECIA", SE: MTV MUSIC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66847
-
-#EXTINF:-1 tvg-id="SE: MTV ROCKS" tvg-logo="noimage.png" group-title="SUECIA", SE: MTV ROCKS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66848
-
-#EXTINF:-1 tvg-id="SE: MTV Sweden" tvg-logo="noimage.png" group-title="SUECIA", SE: MTV Sweden
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66849
-
-#EXTINF:-1 tvg-id="SE: MYSPORTS 1 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: MYSPORTS 1 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66850
-
-#EXTINF:-1 tvg-id="SE: MySports 5 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: MySports 5 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66851
-
-#EXTINF:-1 tvg-id="SE: MySports 7 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: MySports 7 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66852
-
-#EXTINF:-1 tvg-id="SE: MySports 8 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: MySports 8 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66853
-
-#EXTINF:-1 tvg-id="SE: NAT GEO FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: NAT GEO FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66854
-
-#EXTINF:-1 tvg-id="SE: NAT GEO Wild FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: NAT GEO Wild FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66855
-
-#EXTINF:-1 tvg-id="SE: Nick Junior HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Nick Junior HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66856
-
-#EXTINF:-1 tvg-id="SE: nickelodeon HD" tvg-logo="noimage.png" group-title="SUECIA", SE: nickelodeon HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66857
-
-#EXTINF:-1 tvg-id="SE: NickToons" tvg-logo="noimage.png" group-title="SUECIA", SE: NickToons
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66858
-
-#EXTINF:-1 tvg-id="SE: OPPNA KANALEN" tvg-logo="noimage.png" group-title="SUECIA", SE: OPPNA KANALEN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66859
-
-#EXTINF:-1 tvg-id="SE: Paramount Network HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Paramount Network HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66860
-
-#EXTINF:-1 tvg-id="SE: RTS UN HD" tvg-logo="noimage.png" group-title="SUECIA", SE: RTS UN HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66861
-
-#EXTINF:-1 tvg-id="SE: SF-KANALEN HD" tvg-logo="noimage.png" group-title="SUECIA", SE: SF-KANALEN HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66862
-
-#EXTINF:-1 tvg-id="SE: Sjuan FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Sjuan FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66863
-
-#EXTINF:-1 tvg-id="SE: Sport Premium HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Sport Premium HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66864
-
-#EXTINF:-1 tvg-id="SE: Sportkanalen FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Sportkanalen FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66865
-
-#EXTINF:-1 tvg-id="SE: STORTINGET" tvg-logo="noimage.png" group-title="SUECIA", SE: STORTINGET
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66867
-
-#EXTINF:-1 tvg-id="SE: STV 1 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: STV 1 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66868
-
-#EXTINF:-1 tvg-id="SE: SVt 1 Dalarna" tvg-logo="noimage.png" group-title="SUECIA", SE: SVt 1 Dalarna
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66869
-
-#EXTINF:-1 tvg-id="SE: SVT 1 Värmland" tvg-logo="noimage.png" group-title="SUECIA", SE: SVT 1 Värmland
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66870
-
-#EXTINF:-1 tvg-id="SE: SVT 24/B FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: SVT 24/B FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66871
-
-#EXTINF:-1 tvg-id="SE: SVT Barnkanalen" tvg-logo="noimage.png" group-title="SUECIA", SE: SVT Barnkanalen
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66873
-
-#EXTINF:-1 tvg-id="SE: SVT1 Jönköping" tvg-logo="noimage.png" group-title="SUECIA", SE: SVT1 Jönköping
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66877
-
-#EXTINF:-1 tvg-id="SE: SVT1 Örebro" tvg-logo="noimage.png" group-title="SUECIA", SE: SVT1 Örebro
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66878
-
-#EXTINF:-1 tvg-id="SE: Teleclub Sport 1 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Teleclub Sport 1 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66884
-
-#EXTINF:-1 tvg-id="SE: Teleclub Sport 2 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Teleclub Sport 2 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66885
-
-#EXTINF:-1 tvg-id="SE: TLC FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: TLC FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66886
-
-#EXTINF:-1 tvg-id="SE: TLC Sverige" tvg-logo="noimage.png" group-title="SUECIA", SE: TLC Sverige
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66887
-
-#EXTINF:-1 tvg-id="SE: Travel Channel HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Travel Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66888
-
-#EXTINF:-1 tvg-id="SE: TV11 HD" tvg-logo="noimage.png" group-title="SUECIA", SE: TV11 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66889
-
-#EXTINF:-1 tvg-id="SE: TV12 Sweden HD" tvg-logo="noimage.png" group-title="SUECIA", SE: TV12 Sweden HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66890
-
-#EXTINF:-1 tvg-id="SE: TV2 SPORT PREMIUM" tvg-logo="noimage.png" group-title="SUECIA", SE: TV2 SPORT PREMIUM
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66891
-
-#EXTINF:-1 tvg-id="SE: TV3 SVERGIE" tvg-logo="noimage.png" group-title="SUECIA", SE: TV3 SVERGIE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66892
-
-#EXTINF:-1 tvg-id="SE: TV3 Sverige" tvg-logo="noimage.png" group-title="SUECIA", SE: TV3 Sverige
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66893
-
-#EXTINF:-1 tvg-id="SE: TV3 Sweden FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: TV3 Sweden FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66894
-
-#EXTINF:-1 tvg-id="SE: TV4 FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: TV4 FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66895
-
-#EXTINF:-1 tvg-id="SE: TVO HD" tvg-logo="noimage.png" group-title="SUECIA", SE: TVO HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66896
-
-#EXTINF:-1 tvg-id="SE: V Sport Football FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: V Sport Football FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66897
-
-#EXTINF:-1 tvg-id="SE: V Sport Hockey FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: V Sport Hockey FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66898
-
-#EXTINF:-1 tvg-id="SE: V2 Sport Premium" tvg-logo="noimage.png" group-title="SUECIA", SE: V2 Sport Premium
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66899
-
-#EXTINF:-1 tvg-id="SE: VH1" tvg-logo="noimage.png" group-title="SUECIA", SE: VH1
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66900
-
-#EXTINF:-1 tvg-id="SE: VH1 Classic" tvg-logo="noimage.png" group-title="SUECIA", SE: VH1 Classic
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66901
-
-#EXTINF:-1 tvg-id="SE: VIASAT 4" tvg-logo="noimage.png" group-title="SUECIA", SE: VIASAT 4
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66902
-
-#EXTINF:-1 tvg-id="SE: Viasat Action" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Action
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66903
-
-#EXTINF:-1 tvg-id="SE: VIASAT EXPLORE FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: VIASAT EXPLORE FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66904
-
-#EXTINF:-1 tvg-id="SE: Viasat Explorer HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Explorer HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66905
-
-#EXTINF:-1 tvg-id="SE: Viasat Film Action FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Film Action FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66906
-
-#EXTINF:-1 tvg-id="SE: Viasat Film Comedy HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Film Comedy HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66907
-
-#EXTINF:-1 tvg-id="SE: Viasat Film Family HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Film Family HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66908
-
-#EXTINF:-1 tvg-id="SE: Viasat Film Hits FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Film Hits FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66909
-
-#EXTINF:-1 tvg-id="SE: Viasat Film Premiere HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Film Premiere HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66910
-
-#EXTINF:-1 tvg-id="SE: VIASAT FILM Series" tvg-logo="noimage.png" group-title="SUECIA", SE: VIASAT FILM Series
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66911
-
-#EXTINF:-1 tvg-id="SE: VIASAT FOOTBALL FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: VIASAT FOOTBALL FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66912
-
-#EXTINF:-1 tvg-id="SE: Viasat Golf HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Golf HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66913
-
-#EXTINF:-1 tvg-id="SE: VIASAT HOCKEY HD" tvg-logo="noimage.png" group-title="SUECIA", SE: VIASAT HOCKEY HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66914
-
-#EXTINF:-1 tvg-id="SE: Viasat Motor HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Motor HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66915
-
-#EXTINF:-1 tvg-id="SE: Viasat Nature FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Nature FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66916
-
-#EXTINF:-1 tvg-id="SE: Viasat Premiere" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Premiere
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66917
-
-#EXTINF:-1 tvg-id="SE: Viasat Series HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Series HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66918
-
-#EXTINF:-1 tvg-id="SE: Viasat Sport Extra" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Sport Extra
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66919
-
-#EXTINF:-1 tvg-id="SE: Viasat Sport FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Sport FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66920
-
-#EXTINF:-1 tvg-id="SE: Viasat Sport Golf" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasat Sport Golf
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66921
-
-#EXTINF:-1 tvg-id="SE: VIASAT Sport Premium FHD" tvg-logo="noimage.png" group-title="SUECIA", SE: VIASAT Sport Premium FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66922
-
-#EXTINF:-1 tvg-id="SE: Viasatries HD" tvg-logo="noimage.png" group-title="SUECIA", SE: Viasatries HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66924
 
 #EXTINF:-1 tvg-id="UR: 1000 X HORA" tvg-logo="noimage.png" group-title="URUGUAY", UR: 1000 X HORA
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3768
