@@ -1,154 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ecuador - Canal del Futbol FHD ( Solo Eventos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - Canal del Futbol FHD ( Solo Eventos )
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63539
-
-#EXTINF:-1 tvg-id="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - Canal del Futbol SD ( Solo Eventos )
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63541
-
-#EXTINF:-1 tvg-id="Ecuador - Canal Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR", Ecuador - Canal Uno HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63545
-
-#EXTINF:-1 tvg-id="Ecuador - Canal Uno SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR", Ecuador - Canal Uno SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63546
-
-#EXTINF:-1 tvg-id="Ecuador - Canela TV SD" tvg-logo="https://pbs.twimg.com/profile_images/882261860401262594/pXxnnUAk_400x400.jpg" group-title="ECUADOR", Ecuador - Canela TV SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63547
-
-#EXTINF:-1 tvg-id="Ecuador - Directv Sports HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ECUADOR", Ecuador - Directv Sports HD*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63549
-
-#EXTINF:-1 tvg-id="Ecuador - Directv Sports Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="ECUADOR", Ecuador - Directv Sports Plus HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63550
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuador TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", Ecuador - Ecuador TV FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63552
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuador TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", Ecuador - Ecuador TV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63553
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuador TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", Ecuador - Ecuador TV SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63554
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuavisa HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa HD*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63555
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuavisa Internacional FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", Ecuador - Ecuavisa Internacional FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63556
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuavisa Internacional SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", Ecuador - Ecuavisa Internacional SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63557
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuavisa [Gquil] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa [Gquil] FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63558
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuavisa [Gquil] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa [Gquil] SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63560
-
-#EXTINF:-1 tvg-id="Ecuador - Ecuavisa [Quito] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa [Quito] FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63562
-
-#EXTINF:-1 tvg-id="Ecuador - El Canal del Futbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - El Canal del Futbol HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63540
-
-#EXTINF:-1 tvg-id="Ecuador - Gamavision FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", Ecuador - Gamavision FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63564
-
-#EXTINF:-1 tvg-id="Ecuador - Gamavision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", Ecuador - Gamavision HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63565
-
-#EXTINF:-1 tvg-id="Ecuador - Gol TV HD (ing)" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", Ecuador - Gol TV HD (ing)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63599
-
-#EXTINF:-1 tvg-id="Ecuador - Gol TV SD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", Ecuador - Gol TV SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63598
-
-#EXTINF:-1 tvg-id="Ecuador - Oromar TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", Ecuador - Oromar TV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63570
-
-#EXTINF:-1 tvg-id="Ecuador - Oromar TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", Ecuador - Oromar TV SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63571
-
-#EXTINF:-1 tvg-id="Ecuador - RTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", Ecuador - RTS FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63572
-
-#EXTINF:-1 tvg-id="Ecuador - RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", Ecuador - RTS HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63573
-
-#EXTINF:-1 tvg-id="Ecuador - RTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", Ecuador - RTS SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63574
-
-#EXTINF:-1 tvg-id="Ecuador - RTU SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="ECUADOR", Ecuador - RTU SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63575
-
-#EXTINF:-1 tvg-id="Ecuador - TC Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", Ecuador - TC Television HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63577
-
-#EXTINF:-1 tvg-id="Ecuador - TC Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", Ecuador - TC Television HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63578
-
-#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Gquil] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Gquil] FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63580
-
-#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Gquil] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Gquil] SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63582
-
-#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Quito] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Quito] FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63584
-
-#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Quito] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Quito] SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63585
-
-#EXTINF:-1 tvg-id="Ecuador - TVC 2mb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR", Ecuador - TVC 2mb
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63586
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", GOL TV (ecuador)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54995
-
-#EXTINF:-1 tvg-id="GOL TV ⁽ᴴᴰ⁾" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", GOL TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54996
-
-#EXTINF:-1 tvg-id="EC: ECUADOR TV" tvg-logo="https://i.ibb.co/8XYpCKL/ECUADOR-TV.png" group-title="ECUADOR 2", EC: ECUADOR TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68851
-
-#EXTINF:-1 tvg-id="EC: ECUAVISA INTERNACIONAL" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA INTERNACIONAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68852
-
-#EXTINF:-1 tvg-id="EC: ECUAVISA QUITO" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA QUITO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68853
-
-#EXTINF:-1 tvg-id="EC: ECUAVISA SIERRA" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA SIERRA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68854
-
-#EXTINF:-1 tvg-id="EC: GAMAVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/519024968a7e7b9ffb2d576356ca12b5.png" group-title="ECUADOR 2", EC: GAMAVISION HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68855
-
-#EXTINF:-1 tvg-id="EC: TELEAMAZONAS HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8fd44f7a29a44a2687d321a3afd6d1e6.png" group-title="ECUADOR 2", EC: TELEAMAZONAS HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68856
-
-#EXTINF:-1 tvg-id="EC: TC TELEVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/ff9c072d42a94d0a5112613019b54eae.png" group-title="ECUADOR 2", EC: TC TELEVISION HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68857
-
-#EXTINF:-1 tvg-id="EC : RTS SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/243653d8062248c551885f2a80f2f571.png" group-title="ECUADOR 2", EC : RTS SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68858
-
-#EXTINF:-1 tvg-id="EC: CANAL UNO HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/f6b43fbf6fd05dfe246104175d15e850.png" group-title="ECUADOR 2", EC: CANAL UNO HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68859
-
-#EXTINF:-1 tvg-id="EC: EL CANAL DEL FUTBOL FHD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8cbb628a158c65f7ef7bb83ebaa73520.png" group-title="ECUADOR 2", EC: EL CANAL DEL FUTBOL FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68860
-
-#EXTINF:-1 tvg-id="EC: GOL TV SD OP1" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP1
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68861
-
-#EXTINF:-1 tvg-id="EC: GOL TV SD OP2" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68862
-
-#EXTINF:-1 tvg-id="EC: DIRECTV" tvg-logo="http://tv.iptv5latino.cl:8080/images/3ff1a54c1a1fba3ae2747790c128abce.png" group-title="ECUADOR 2", EC: DIRECTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68863
-
-#EXTINF:-1 tvg-id="LIGA DE ECUADOR" tvg-logo="noimage.png" group-title="ECUADOR 2", LIGA DE ECUADOR
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68864
-
 #EXTINF:-1 tvg-id="24 HRS  Canito y Canuto (PS)" tvg-logo="http://tv.iptv5latino.cl:8000/images/17426df5b8053e206f0a1890cd326487.png" group-title="24/7", 24 HRS  Canito y Canuto (PS)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64023
 
@@ -767,684 +617,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63993
 #EXTINF:-1 tvg-id="X-Men FHD" tvg-logo="https://picfiles.alphacoders.com/652/65222.png" group-title="24/7", X-Men FHD
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64007
 
-#EXTINF:-1 tvg-id="AR: 13 Max HD" tvg-logo="noimage.png" group-title="ARGENTINA", AR: 13 Max HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54955
-
-#EXTINF:-1 tvg-id="a24.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/A24_logo.svg" group-title="ARGENTINA", AR: A24
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54956
-
-#EXTINF:-1 tvg-id="america.ar" tvg-logo="noimage.png" group-title="ARGENTINA", AR: America FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54957
-
-#EXTINF:-1 tvg-id="AR: AMERICA TV" tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/5/7/csm_16023-1639_import_7d2ded6aa2.png" group-title="ARGENTINA", AR: AMERICA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16184
-
-#EXTINF:-1 tvg-id="america.ar" tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/5/7/csm_16023-1639_import_7d2ded6aa2.png" group-title="ARGENTINA", AR: America TV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/10871
-
-#EXTINF:-1 tvg-id="AR: C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/C5NLOGO2017.png" group-title="ARGENTINA", AR: C5N
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3731
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/C5N_Logo_2015.PNG" group-title="ARGENTINA", AR: C5N SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54958
-
-#EXTINF:-1 tvg-id="AR: C5N*" tvg-logo="https://logostvargentina.files.wordpress.com/2008/11/9558b-c5n-2017.png" group-title="ARGENTINA", AR: C5N*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15770
-
-#EXTINF:-1 tvg-id="26tv.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/LogoCanal26.png" group-title="ARGENTINA", AR: CANAL 26
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/49384
-
-#EXTINF:-1 tvg-id="AR: CANAL 26" tvg-logo="https://argentina.mom-rsf.org/typo3temp/_processed_/6/e/csm_16018-1639_import_1aa4766f2d.png" group-title="ARGENTINA", AR: CANAL 26
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3732
-
-#EXTINF:-1 tvg-id="AR: CANAL A24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA", AR: CANAL A24
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15771
-
-#EXTINF:-1 tvg-id="AR: CANAL A24 *" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png" group-title="ARGENTINA", AR: CANAL A24 *
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3724
-
-#EXTINF:-1 tvg-id="AR: CRONICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="ARGENTINA", AR: CRONICA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3733
-
-#EXTINF:-1 tvg-id="AR: EL NUEVE" tvg-logo="https://www.ushuaiavision.com.ar/images/canales/canal9.png" group-title="ARGENTINA", AR: EL NUEVE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3735
-
-#EXTINF:-1 tvg-id="AR: EL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", AR: EL TRECE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3739
-
-#EXTINF:-1 tvg-id="AR: EL TRECE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Canal13_logo.png" group-title="ARGENTINA", AR: EL TRECE*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15768
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png" group-title="ARGENTINA", AR: NET TV (p)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/45678
-
-#EXTINF:-1 tvg-id="AR: TELEFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA", AR: TELEFE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3744
-
-#EXTINF:-1 tvg-id="AR: TELEFE*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="ARGENTINA", AR: TELEFE*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3745
-
-#EXTINF:-1 tvg-id="AR: TELEMAX*" tvg-logo="https://www.infocajeme.com/fotos/39833-20180222-3.jpg" group-title="ARGENTINA", AR: TELEMAX*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3746
-
-#EXTINF:-1 tvg-id="AR: TN*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="ARGENTINA", AR: TN*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3747
-
-#EXTINF:-1 tvg-id="AR: TV PUBLICA*" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/cuts_logos/37/50/37506555-2c43-4b60-9b4e-b46a8ec60f33.png" group-title="ARGENTINA", AR: TV PUBLICA*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3752
-
-#EXTINF:-1 tvg-id="AR: TV PUBLICA**" tvg-logo="https://imgsvr.radiocut.site/get/thumb/600/600/cuts_logos/37/50/37506555-2c43-4b60-9b4e-b46a8ec60f33.png" group-title="ARGENTINA", AR: TV PUBLICA**
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3753
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/45.png" group-title="ARGENTINA", AR: VOLVER
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40886
-
-#EXTINF:-1 tvg-id="tn.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="ARGENTINA", TN Noticias SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54823
-
-#EXTINF:-1 tvg-id="Bolivia - Tigo Sports 1 SD" tvg-logo="https://sport-tv-guide.live/images/tv-station-tigo-sports-bo-1731.png" group-title="BOLIVIA", Bolivia - Tigo Sports 1 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64885
-
-#EXTINF:-1 tvg-id="Bolivia - Tigo Sports 2 HD" tvg-logo="https://sport-tv-guide.live/images/tv-station-tigo-sports-2-bo-1732.png" group-title="BOLIVIA", Bolivia - Tigo Sports 2 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64881
-
-#EXTINF:-1 tvg-id="Bolivia - Tigo Sports 2 SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/364e820900e31d4dd55e49920f568241.png" group-title="BOLIVIA", Bolivia - Tigo Sports 2 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64882
-
-#EXTINF:-1 tvg-id="Bolivia - Tigo Sports 3 HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/6f2f77b4ee37ae666d0420552119c06f.png" group-title="BOLIVIA", Bolivia - Tigo Sports 3 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64883
-
-#EXTINF:-1 tvg-id="Bolivia - Tigo Sports 3 SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/6f2f77b4ee37ae666d0420552119c06f.png" group-title="BOLIVIA", Bolivia - Tigo Sports 3 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64884
-
-#EXTINF:-1 tvg-id="Bolivia TV Deportes" tvg-logo="noimage.png" group-title="BOLIVIA", Bolivia TV Deportes
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64553
-
-#EXTINF:-1 tvg-id="BOLIVIA | ATB" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | ATB
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64554
-
-#EXTINF:-1 tvg-id="BOLIVIA | BOLIVIA TV" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | BOLIVIA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64555
-
-#EXTINF:-1 tvg-id="BOLIVIA | BOLIVISION" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | BOLIVISION
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64557
-
-#EXTINF:-1 tvg-id="BOLIVIA | BOLIVISION 2." tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | BOLIVISION 2.
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64556
-
-#EXTINF:-1 tvg-id="BOLIVIA | Bolivision HD" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | Bolivision HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64558
-
-#EXTINF:-1 tvg-id="BOLIVIA | Bolivision HD*" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | Bolivision HD*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64559
-
-#EXTINF:-1 tvg-id="BOLIVIA | CATOLICA TV" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | CATOLICA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64560
-
-#EXTINF:-1 tvg-id="BOLIVIA | DEPORTES TV BOLIVIA" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | DEPORTES TV BOLIVIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64561
-
-#EXTINF:-1 tvg-id="BOLIVIA | EBO TV" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | EBO TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64562
-
-#EXTINF:-1 tvg-id="BOLIVIA | MEGO BOLIVIA" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | MEGO BOLIVIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64563
-
-#EXTINF:-1 tvg-id="BOLIVIA | PAT LA PAZ" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | PAT LA PAZ
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64564
-
-#EXTINF:-1 tvg-id="BOLIVIA | REC ONLINE" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | REC ONLINE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64565
-
-#EXTINF:-1 tvg-id="BOLIVIA | Red PAT Bol" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | Red PAT Bol
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64566
-
-#EXTINF:-1 tvg-id="BOLIVIA | Red PAT Internacional" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | Red PAT Internacional
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64567
-
-#EXTINF:-1 tvg-id="BOLIVIA | RED UNO BOLIVIA" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | RED UNO BOLIVIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64568
-
-#EXTINF:-1 tvg-id="BOLIVIA | RTP" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | RTP
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64569
-
-#EXTINF:-1 tvg-id="BOLIVIA | TV UNIVERSITARIA" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | TV UNIVERSITARIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64570
-
-#EXTINF:-1 tvg-id="BOLIVIA | Unitel" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA | Unitel
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64571
-
-#EXTINF:-1 tvg-id="BOLIVIA |PAT SANTA CRUZ" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA |PAT SANTA CRUZ
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64572
-
-#EXTINF:-1 tvg-id="BOLIVIA |Â Canal 7 Bolivia TV" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA |Â Canal 7 Bolivia TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64573
-
-#EXTINF:-1 tvg-id="BOLIVIA |Â Pat La Paz" tvg-logo="noimage.png" group-title="BOLIVIA", BOLIVIA |Â Pat La Paz
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64574
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://cdn.worldvectorlogo.com/logos/a-e.svg" group-title="BRASIL", BR: A&E
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/45642
-
-#EXTINF:-1 tvg-id="BR: BAND SP" tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png" group-title="BRASIL", BR: BAND SP
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15737
-
-#EXTINF:-1 tvg-id="BR: CARTOON NETWORK" tvg-logo="https://www.stickpng.com/assets/images/589a41e25aa6293a4aac48ab.png" group-title="BRASIL", BR: CARTOON NETWORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/14785
-
-#EXTINF:-1 tvg-id="BR: DISCOVERY CHANNEL" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo.svg_.png" group-title="BRASIL", BR: DISCOVERY CHANNEL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15738
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="BRASIL", BR: DISCOVERY H&H
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/45649
-
-#EXTINF:-1 tvg-id="BR: DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="BRASIL", BR: DISCOVERY KIDS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15736
-
-#EXTINF:-1 tvg-id="BR: ESPN" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/espn-brasil-2-logo.png" group-title="BRASIL", BR: ESPN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15735
-
-#EXTINF:-1 tvg-id="BR: FOX SPORTS 1" tvg-logo="https://i.ytimg.com/vi/cOA69YxcZSE/maxresdefault.jpg" group-title="BRASIL", BR: FOX SPORTS 1
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/14787
-
-#EXTINF:-1 tvg-id="BR: GLOBO BRASILIA" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL", BR: GLOBO BRASILIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15728
-
-#EXTINF:-1 tvg-id="BR: GLOBO RJ" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="BRASIL", BR: GLOBO RJ
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15729
-
-#EXTINF:-1 tvg-id="BR: PREMIERE CLUBES" tvg-logo="https://www.cabonnet.com.br/ourinhos/uploads/canais/13082018142954.png" group-title="BRASIL", BR: PREMIERE CLUBES
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15733
-
-#EXTINF:-1 tvg-id="BR: RECORD SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/13/Logotipo_da_Rede_Record.png" group-title="BRASIL", BR: RECORD SP
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15727
-
-#EXTINF:-1 tvg-id="BR: REDE TV" tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/c1/2019/10/30/logo-rede-tv-1572473606244_v2_900x506.png" group-title="BRASIL", BR: REDE TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15726
-
-#EXTINF:-1 tvg-id="BR: SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="BRASIL", BR: SBT
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15725
-
-#EXTINF:-1 tvg-id="BR: SPORTV 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/SporTV_logo_2016.png" group-title="BRASIL", BR: SPORTV 1 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15730
-
-#EXTINF:-1 tvg-id="BR: SPORTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="BRASIL", BR: SPORTV 2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15731
-
-#EXTINF:-1 tvg-id="BR: SPORTV3" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="BRASIL", BR: SPORTV3
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15732
-
-#EXTINF:-1 tvg-id="Brasil - AMC HD" tvg-logo="http://144.217.91.146/Logos/Brazil/amc-us.png" group-title="BRASIL", Brasil - AMC HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63130
-
-#EXTINF:-1 tvg-id="Brasil - Animal Planet HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/94d444633e1a3c2b5a566695505e3280.png" group-title="BRASIL", Brasil - Animal Planet HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63131
-
-#EXTINF:-1 tvg-id="Brasil - Arte 1 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2acf6b8c3e49702f143cfa73ce50f553.png" group-title="BRASIL", Brasil - Arte 1 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63132
-
-#EXTINF:-1 tvg-id="Brasil - AXN HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/908ada80271cdf4ac88542c08b7e4827.png" group-title="BRASIL", Brasil - AXN HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63133
-
-#EXTINF:-1 tvg-id="Brasil - Baby HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/bed998fa30ed11770ca8188f8d4ea44a.png" group-title="BRASIL", Brasil - Baby HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63134
-
-#EXTINF:-1 tvg-id="Brasil - Band Campinas HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d55175573b4ce32836ed4aab30b6864f.png" group-title="BRASIL", Brasil - Band Campinas HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63135
-
-#EXTINF:-1 tvg-id="Brasil - Band HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/6cec20aee4514583e51524082f0e5279.png" group-title="BRASIL", Brasil - Band HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63136
-
-#EXTINF:-1 tvg-id="Brasil - Band News HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/df09fb1060721fcd83dc5b61c8a36bf6.png" group-title="BRASIL", Brasil - Band News HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63137
-
-#EXTINF:-1 tvg-id="Brasil - Band Sports HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/23b7b374cc253cc1ac3970e835ba63fe.png" group-title="BRASIL", Brasil - Band Sports HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63138
-
-#EXTINF:-1 tvg-id="Brasil - Boomerang HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/b5daf2edee20234b04ce375434ddf64c.png" group-title="BRASIL", Brasil - Boomerang HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63139
-
-#EXTINF:-1 tvg-id="Brasil - Canal Brasil HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ae2046847b23f9ca7dc59155b5095017.png" group-title="BRASIL", Brasil - Canal Brasil HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63140
-
-#EXTINF:-1 tvg-id="Brasil - Cinemax HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/0cacabdfd0542c5125f585255ca9f03c.png" group-title="BRASIL", Brasil - Cinemax HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63141
-
-#EXTINF:-1 tvg-id="Brasil - Comedy Central HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d6f8ddc4ac59c4d9ccbc1de7c39b78c6.png" group-title="BRASIL", Brasil - Comedy Central HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63142
-
-#EXTINF:-1 tvg-id="Brasil - Discovery Channel HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/03c295674250bc4b71cf4a545feebf20.png" group-title="BRASIL", Brasil - Discovery Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63143
-
-#EXTINF:-1 tvg-id="Brasil - Discovery Civilization HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d7a5c6fd8b7b74acfb9b3886f57814f7.jpg" group-title="BRASIL", Brasil - Discovery Civilization HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63144
-
-#EXTINF:-1 tvg-id="Brasil - Discovery Science HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/dc4e4f023284f3f4d9945df4bf2e9ffa.jpg" group-title="BRASIL", Brasil - Discovery Science HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63145
-
-#EXTINF:-1 tvg-id="Brasil - Discovery Theater HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e7bba53d9481a096c28e6fe1320494ef.jpg" group-title="BRASIL", Brasil - Discovery Theater HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63146
-
-#EXTINF:-1 tvg-id="Brasil - Discovery Turbo HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/dbe81a9e68ada1461d2f5e72f368c1ee.jpg" group-title="BRASIL", Brasil - Discovery Turbo HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63147
-
-#EXTINF:-1 tvg-id="Brasil - Discovery World HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a95dab9057aafb69819ea0c1ec831663.jpg" group-title="BRASIL", Brasil - Discovery World HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63148
-
-#EXTINF:-1 tvg-id="Brasil - Disney Jr HD" tvg-logo="noimage.png" group-title="BRASIL", Brasil - Disney Jr HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63149
-
-#EXTINF:-1 tvg-id="Brasil - Disney XD HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/efbc07f7a16863f16c56ff6fcfeda9b7.jpg" group-title="BRASIL", Brasil - Disney XD HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63150
-
-#EXTINF:-1 tvg-id="Brasil - E! HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2d4cd9406b70be499efb3a0e647c0728.png" group-title="BRASIL", Brasil - E! HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63151
-
-#EXTINF:-1 tvg-id="Brasil - EPTV Ribeirao Preto HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/037ab5ce2be0105a173acea648a78f97.png" group-title="BRASIL", Brasil - EPTV Ribeirao Preto HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63152
-
-#EXTINF:-1 tvg-id="Brasil - Food Network HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/5d1ce5ebf5036d55d863fda4d274571e.png" group-title="BRASIL", Brasil - Food Network HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63153
-
-#EXTINF:-1 tvg-id="Brasil - Fox HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/f1f647d29bdda5997de0d562993de659.png" group-title="BRASIL", Brasil - Fox HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63154
-
-#EXTINF:-1 tvg-id="Brasil - Fox Premium 2 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/489c4fcd199285a0aaf4bd33eeaa815d.png" group-title="BRASIL", Brasil - Fox Premium 2 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63155
-
-#EXTINF:-1 tvg-id="Brasil - Fox Sports HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/cd8c085f54d02c5d6d748de19ec77fee.png" group-title="BRASIL", Brasil - Fox Sports HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63156
-
-#EXTINF:-1 tvg-id="Brasil - FX HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/3f5b072a29db0a27f65d6b5b9cdd23fc.png" group-title="BRASIL", Brasil - FX HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63157
-
-#EXTINF:-1 tvg-id="Brasil - Globo Minas HD" tvg-logo="https://i.ytimg.com/vi/RzXp78RXqsY/maxresdefault.jpg" group-title="BRASIL", Brasil - Globo Minas HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63158
-
-#EXTINF:-1 tvg-id="Brasil - Globo Nordeste HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a74fc655f8bf230a838ee83a857e4887.png" group-title="BRASIL", Brasil - Globo Nordeste HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63159
-
-#EXTINF:-1 tvg-id="Brasil - Globo Rbs Porto Alegre HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/4f3d793b6a8b6ca9f2b5abbc739d7d60.jpg" group-title="BRASIL", Brasil - Globo Rbs Porto Alegre HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63160
-
-#EXTINF:-1 tvg-id="Brasil - Globo SP HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e499d17797292799dce60d5e93ee9fff.png" group-title="BRASIL", Brasil - Globo SP HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63161
-
-#EXTINF:-1 tvg-id="Brasil - Globo TV Sergipe HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/4249c8cead48dda53001b98bc4eda749.png" group-title="BRASIL", Brasil - Globo TV Sergipe HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63162
-
-#EXTINF:-1 tvg-id="Brasil - Gloob HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e499d17797292799dce60d5e93ee9fff.png" group-title="BRASIL", Brasil - Gloob HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63163
-
-#EXTINF:-1 tvg-id="Brasil - Gloobinho HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/9d7ed98d9be6c37cfa56ce68d99c8fd5.png" group-title="BRASIL", Brasil - Gloobinho HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63164
-
-#EXTINF:-1 tvg-id="Brasil - GNT HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/db781ac97f8736685e24ed01d03af4b8.png" group-title="BRASIL", Brasil - GNT HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63165
-
-#EXTINF:-1 tvg-id="Brasil - H2 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2d28df3da9007fbfbb83e19d34dbdb15.png" group-title="BRASIL", Brasil - H2 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63166
-
-#EXTINF:-1 tvg-id="Brasil - HBO 2 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/7bcdce0dc02d63248ed45b3f10c55102.png" group-title="BRASIL", Brasil - HBO 2 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63167
-
-#EXTINF:-1 tvg-id="Brasil - HBO Family HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a80c587b1f8cdf1647fc45091efd61b0.png" group-title="BRASIL", Brasil - HBO Family HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63168
-
-#EXTINF:-1 tvg-id="Brasil - HBO HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/d56419a3cadec12262c8b32b745bf971.png" group-title="BRASIL", Brasil - HBO HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63169
-
-#EXTINF:-1 tvg-id="Brasil - HBO Plus HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/143aed9af04e1b39ad346a3e14ab8313.png" group-title="BRASIL", Brasil - HBO Plus HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63170
-
-#EXTINF:-1 tvg-id="Brasil - History HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/43caf40ef4e360c1cbea3577a4798ef5.png" group-title="BRASIL", Brasil - History HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63172
-
-#EXTINF:-1 tvg-id="Brasil - ID Discovery HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/84c7ee0434bfe9de438a74decb801c52.jpg" group-title="BRASIL", Brasil - ID Discovery HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63173
-
-#EXTINF:-1 tvg-id="Brasil - Lifetime HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ed9cefef1055d6f3b8e63ccb98c6da12.png" group-title="BRASIL", Brasil - Lifetime HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63174
-
-#EXTINF:-1 tvg-id="Brasil - Max HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e24ba07ace4f5755baa6f9eeb34fc033.png" group-title="BRASIL", Brasil - Max HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63175
-
-#EXTINF:-1 tvg-id="Brasil - Max Prime HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/15c9353df30ee65168a8e32fc954707d.png" group-title="BRASIL", Brasil - Max Prime HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63176
-
-#EXTINF:-1 tvg-id="Brasil - Max Up HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/4c0bd472891d5c2506bfaa5f7e7790cf.png" group-title="BRASIL", Brasil - Max Up HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63177
-
-#EXTINF:-1 tvg-id="Brasil - Megapix HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e4829d9d9de9a6f10a4421f92d542d9c.png" group-title="BRASIL", Brasil - Megapix HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63178
-
-#EXTINF:-1 tvg-id="Brasil - Natgeo HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/5d7d7602c575af2367530865ee9ab8de.png" group-title="BRASIL", Brasil - Natgeo HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63179
-
-#EXTINF:-1 tvg-id="Brasil - Natgeo Wild HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/8e31b5bf0a071929021b65ce419bf2a8.png" group-title="BRASIL", Brasil - Natgeo Wild HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63180
-
-#EXTINF:-1 tvg-id="Brasil - Nick HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/5924410acdc639e8e50022d81f05080b.png" group-title="BRASIL", Brasil - Nick HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63181
-
-#EXTINF:-1 tvg-id="Brasil - Nick Jr HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/93d69bc6c5949561b15f51a195dec9ba.png" group-title="BRASIL", Brasil - Nick Jr HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63182
-
-#EXTINF:-1 tvg-id="Brasil - Off HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ce4b54e35adfd544afdd286681778828.png" group-title="BRASIL", Brasil - Off HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63183
-
-#EXTINF:-1 tvg-id="Brasil - Paramount HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/67b44a1fd874b3f4317e957437712aa3.png" group-title="BRASIL", Brasil - Paramount HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63184
-
-#EXTINF:-1 tvg-id="Brasil - Premiere 1 HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/37d896074fbd78f6992dcf21f084f17d.png" group-title="BRASIL", Brasil - Premiere 1 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63212
-
-#EXTINF:-1 tvg-id="Brasil - Record Ba HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/997a73068bea0146a34f681ff27fc054.jpg" group-title="BRASIL", Brasil - Record Ba HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63185
-
-#EXTINF:-1 tvg-id="Brasil - Record HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/997a73068bea0146a34f681ff27fc054.jpg" group-title="BRASIL", Brasil - Record HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63186
-
-#EXTINF:-1 tvg-id="Brasil - Record Mg HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/22e0e8fe7dd5455ed81b69c626aaec41.png" group-title="BRASIL", Brasil - Record Mg HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63187
-
-#EXTINF:-1 tvg-id="Brasil - Record RJ HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/8126ed0f4bc7a640445ca40e512d3636.png" group-title="BRASIL", Brasil - Record RJ HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63188
-
-#EXTINF:-1 tvg-id="Brasil - SBT Cidade Verde HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL", Brasil - SBT Cidade Verde HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63189
-
-#EXTINF:-1 tvg-id="Brasil - Sbt HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL", Brasil - Sbt HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63190
-
-#EXTINF:-1 tvg-id="Brasil - SBT SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL", Brasil - SBT SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63191
-
-#EXTINF:-1 tvg-id="Brasil - SBT TV Jornal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/25bc0d03949a029ef8aa09b7afcd8946.png" group-title="BRASIL", Brasil - SBT TV Jornal HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63192
-
-#EXTINF:-1 tvg-id="Brasil - Sony Channel HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/fb6f2bcd02d62410aaf716edac8dbbd3.png" group-title="BRASIL", Brasil - Sony Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63193
-
-#EXTINF:-1 tvg-id="Brasil - Space HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/7accc33fa35593443307c47fdede1696.png" group-title="BRASIL", Brasil - Space HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63194
-
-#EXTINF:-1 tvg-id="Brasil - Studio Universal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/a31dd67cefaa5ad1afb9f75292b95983.png" group-title="BRASIL", Brasil - Studio Universal HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63195
-
-#EXTINF:-1 tvg-id="Brasil - Syfy HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/19becbe1aa2e47128dcd237b8dcd81b9.png" group-title="BRASIL", Brasil - Syfy HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63196
-
-#EXTINF:-1 tvg-id="Brasil - TBS HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/0429f1134e9cff8d6d13688644740023.png" group-title="BRASIL", Brasil - TBS HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63197
-
-#EXTINF:-1 tvg-id="Brasil - TCM HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/988c6348dab8f69bc292c9027cb47ede.png" group-title="BRASIL", Brasil - TCM HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63198
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Action" tvg-logo="http://tv.iptv5latino.cl:8000/images/2c47baeba8f2ded3183198e39972a191.png" group-title="BRASIL", Brasil - Telecine Action
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63199
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Cult HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/6708088977bffb530004380745de4455.png" group-title="BRASIL", Brasil - Telecine Cult HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63200
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Fun HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/401812b1d145c43cd292ce883b509f4c.png" group-title="BRASIL", Brasil - Telecine Fun HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63201
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Pipoca" tvg-logo="http://tv.iptv5latino.cl:8000/images/31af21f89e8ec52c797b810b60923d8f.jpg" group-title="BRASIL", Brasil - Telecine Pipoca
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63202
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Pipoca HD" tvg-logo="https://www.satlogo.com/hires/tt/telecine_pipoca.png" group-title="BRASIL", Brasil - Telecine Pipoca HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63203
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Premium HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/2fe9ff1a6cb778f438716ff353624005.png" group-title="BRASIL", Brasil - Telecine Premium HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63204
-
-#EXTINF:-1 tvg-id="Brasil - Telecine Touch HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/62dad3fcbede8ccb62abf0246d3130c0.png" group-title="BRASIL", Brasil - Telecine Touch HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63205
-
-#EXTINF:-1 tvg-id="Brasil - TNT Series HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/12e7dd2017a635b003edc30392936d3a.png" group-title="BRASIL", Brasil - TNT Series HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63206
-
-#EXTINF:-1 tvg-id="Brasil - Tooncast HD" tvg-logo="noimage.png" group-title="BRASIL", Brasil - Tooncast HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63207
-
-#EXTINF:-1 tvg-id="Brasil - TV Ra Tim Bum HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/03d7d464ece9f47690694a8f2ce3edc8.png" group-title="BRASIL", Brasil - TV Ra Tim Bum HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63208
-
-#EXTINF:-1 tvg-id="Brasil - TV Up HD (Futura) Pr" tvg-logo="noimage.png" group-title="BRASIL", Brasil - TV Up HD (Futura) Pr
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63209
-
-#EXTINF:-1 tvg-id="Brasil - Universal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/ff651a7b32890c6b2f256a50ea8ca478.png" group-title="BRASIL", Brasil - Universal HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63210
-
-#EXTINF:-1 tvg-id="Brasil - Woohoo HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/54b77aa67a72ab2fadfb1c354d1a0940.png" group-title="BRASIL", Brasil - Woohoo HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63211
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="BRASIL", ESPN 2 BRASIL (ʜᴅ)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54328
-
-#EXTINF:-1 tvg-id="13c.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Canal13Chile-13C.png" group-title="CHILE", CH: 13C
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16175
-
-#EXTINF:-1 tvg-id="13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Canal13Chile-LogoV2-Cable.png" group-title="CHILE", CH: 13C ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/511
-
-#EXTINF:-1 tvg-id="24h.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/24_Horas_TVN_alt.png/1200px-24_Horas_TVN_alt.png" group-title="CHILE", CH: 24 HORAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15540
-
-#EXTINF:-1 tvg-id="CH: 24 HORAS (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/24_Horas_TVN_alt.png" group-title="CHILE", CH: 24 HORAS (directo)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41830
-
-#EXTINF:-1 tvg-id="13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE", CH: CANAL 13
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/27155
-
-#EXTINF:-1 tvg-id="13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Canal_13_2018.png" group-title="CHILE", CH: CANAL 13 1080
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/513
-
-#EXTINF:-1 tvg-id="13.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Canal_13_de_Chile_%28Isotipo_2018%29.svg/1200px-Canal_13_de_Chile_%28Isotipo_2018%29.svg.png" group-title="CHILE", CH: CANAL 13 720
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15882
-
-#EXTINF:-1 tvg-id="CH: CANAL 13i" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_13i.png" group-title="CHILE", CH: CANAL 13i
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15765
-
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE", CH: CHILEVISION 1080
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1159
-
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE", CH: CHILEVISION 720
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/899
-
-#EXTINF:-1 tvg-id="CH: CHILEVISION ⁽ˢᵈ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="CHILE", CH: CHILEVISION ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61826
-
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://www.ecured.cu/images/5/5a/Sdrfgd.png" group-title="CHILE", CH: CHILEVISION ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54997
-
-#EXTINF:-1 tvg-id="chv.cl" tvg-logo="https://www.chilevision.cl/chilevision/site/artic/20191108/imag/foto_0000000120191108131036/chv_logo.png" group-title="CHILE", CH: CHILEVISION ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/34769
-
-#EXTINF:-1 tvg-id="cnn.cl" tvg-logo="noimage.png" group-title="CHILE", CH: CNN CHILE ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17722
-
-#EXTINF:-1 tvg-id="cnn.cl" tvg-logo="noimage.png" group-title="CHILE", CH: CNN CHILE ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/38249
-
-#EXTINF:-1 tvg-id="cnn.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="CHILE", CH: CNN ESPAÑOL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15712
-
-#EXTINF:-1 tvg-id="etctv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", CH: ETC TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15928
-
-#EXTINF:-1 tvg-id="etctv.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/ETC_2016-actual.png" group-title="CHILE", CH: ETC TV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54999
-
-#EXTINF:-1 tvg-id="CH: FM HOT CINE" tvg-logo="https://img.webme.com/pic/e/eric-cast/fmhot3.png" group-title="CHILE", CH: FM HOT CINE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1764
-
-#EXTINF:-1 tvg-id="red.cl" tvg-logo="https://lh3.googleusercontent.com/proxy/5ecUUSc-YoOROa8ArmrQ_S3TxCAvJCjQAcMinqKbWugb0l7WD5RVMeB_iGajggy8Yez1K9dwNDQlF8cixu0J_Y1kAvDqcykdK_pA3zQUqcKDYS-2yB0XQE49inmYsHE" group-title="CHILE", CH: LA RED
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/518
-
-#EXTINF:-1 tvg-id="CH: LA RED ⁽ᴴᴰ⁾" tvg-logo="https://aam.cl/wp-content/uploads/2018/08/1200px-La_Red_Logotipo.svg_.png" group-title="CHILE", CH: LA RED ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53437
-
-#EXTINF:-1 tvg-id="red.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/La_Red_Logotipo.svg/200px-La_Red_Logotipo.svg.png" group-title="CHILE", CH: LA RED ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15422
-
-#EXTINF:-1 tvg-id="CH: MEGA 1080 ⁽ᵃ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE", CH: MEGA 1080 ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17284
-
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE", CH: MEGA 720 ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16742
-
-#EXTINF:-1 tvg-id="CH: MEGA PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/MegaPlus.png" group-title="CHILE", CH: MEGA PLUS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15864
-
-#EXTINF:-1 tvg-id="CH: MEGA ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE", CH: MEGA ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58410
-
-#EXTINF:-1 tvg-id="mega.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/2015megaoficial.png" group-title="CHILE", CH: MEGA ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17304
-
-#EXTINF:-1 tvg-id="CH: MEGANOTICIAS (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Meganoticias2019.png" group-title="CHILE", CH: MEGANOTICIAS (directo)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58409
-
-#EXTINF:-1 tvg-id="CH: REC TV" tvg-logo="https://static.13.cl/7/sites/all/themes/rec_v2/images/logo2.png?1" group-title="CHILE", CH: REC TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/9865
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Logo_Rec_TV_%282015%29.png" group-title="CHILE", CH: REC TV ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/52671
-
-#EXTINF:-1 tvg-id="CH: T13 MOVIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Teletrece_Logo_%282012%29.svg/1200px-Teletrece_Logo_%282012%29.svg.png" group-title="CHILE", CH: T13 MOVIL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2269
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://imgur.com/SGX5yDQ.png" group-title="CHILE", CH: TELETRAK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54388
-
-#EXTINF:-1 tvg-id="CH: TELETRAK (ʜᴅ)" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="CHILE", CH: TELETRAK (ʜᴅ)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54998
-
-#EXTINF:-1 tvg-id="CH: TV +" tvg-logo="https://lh3.googleusercontent.com/-eU8EzKPxxwk/W_daaXlf4FI/AAAAAAAAmfU/8PRBaU82Y4USPw-4FTuAQ_fWDDcTnYbpgCL0BGAYYCw/h66/2018-11-22.png" group-title="CHILE", CH: TV +
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2258
-
-#EXTINF:-1 tvg-id="CH: TV + ⁽ᵃ⁾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/TV-Chile-en-vivo-Online.png" group-title="CHILE", CH: TV + ⁽ᵃ⁾
-https://mdstrm.com/live-stream-playlist/5cb5f2bd50ae45798813ba17.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-id="CH: TV CAMARA DE DIPUTADOS" tvg-logo="https://img2.eltipografo.cl/media/2018/03/Logocdtv.jpg" group-title="CHILE", CH: TV CAMARA DE DIPUTADOS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2691
-
-#EXTINF:-1 tvg-id="CH: TV CHILE" tvg-logo="noimage.png" group-title="CHILE", CH: TV CHILE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58411
-
-#EXTINF:-1 tvg-id="CH: TV EDUCA CHILE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TV_Educa_Chile_Logotipo.svg/1200px-TV_Educa_Chile_Logotipo.svg.png" group-title="CHILE", CH: TV EDUCA CHILE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/36817
-
-#EXTINF:-1 tvg-id="CH: TV EDUCA CHILE (directo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TV_Educa_Chile_Logotipo.svg/1200px-TV_Educa_Chile_Logotipo.svg.png" group-title="CHILE", CH: TV EDUCA CHILE (directo)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58114
-
-#EXTINF:-1 tvg-id="tvmas.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV%2B_%282018%29.png" group-title="CHILE", CH: TV+
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16013
-
-#EXTINF:-1 tvg-id="CH: TVN" tvg-logo="noimage.png" group-title="CHILE", CH: TVN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/27156
-
-#EXTINF:-1 tvg-id="tvn.cl" tvg-logo="noimage.png" group-title="CHILE", CH: TVN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/520
-
-#EXTINF:-1 tvg-id="CH: TVN ⁽ᴹ⁾" tvg-logo="noimage.png" group-title="CHILE", CH: TVN ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/27154
-
-#EXTINF:-1 tvg-id="tvn.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TVN_Chile_Logo.svg/400px-TVN_Chile_Logo.svg.png" group-title="CHILE", CH: TVN ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/519
-
-#EXTINF:-1 tvg-id="CH: ZONA LATINA ⁽ˢᵈ⁾" tvg-logo="noimage.png" group-title="CHILE", CH: ZONA LATINA ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/60879
-
-#EXTINF:-1 tvg-id="Ruidos TV" tvg-logo="data:image/jpeg;base64,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" group-title="CHILE REGIONALES", Ruidos TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58125
-
-#EXTINF:-1 tvg-id="ADN TV" tvg-logo="https://lh3.googleusercontent.com/-n8guRt2BYoM/Wn9sHoeVutI/AAAAAAAAgx8/uOv_w5b0-rI6lDrs-yxbgTDWPs6G3X3BACK8BGAs/s250/2018-02-10.png" group-title="CHILE REGIONALES", ADN TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2270
-
-#EXTINF:-1 tvg-id="ALEGRIA TV" tvg-logo="https://lh3.googleusercontent.com/proxy/BMcMTyC-UDf8WIKZD4hmFUbg8EjDiJ5m1DTiWRHIQhBU3DjPSk4yMD78MeEiIFSjOufJYOk6ptdM-m4vbKiU2ZMcrGZyRM_SEnVYjAxxXMBRjnxS7wTdugYU6jbmtQvziHwzI5O_A5cgqMrw7aq3OW5esCEz" group-title="CHILE REGIONALES", ALEGRIA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2266
-
-#EXTINF:-1 tvg-id="Arica TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Logo_de_Arica_TV.png" group-title="CHILE REGIONALES", Arica TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57767
-
-#EXTINF:-1 tvg-id="ATACAMA TV" tvg-logo="https://pbs.twimg.com/media/EA1weL5WkAAK9UN.jpg" group-title="CHILE REGIONALES", ATACAMA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15868
-
-#EXTINF:-1 tvg-id="BIO BIO TV" tvg-logo="https://cdn.mitvstatic.com/channels/cl_canal-9-bio-bio_m.png" group-title="CHILE REGIONALES", BIO BIO TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2271
-
-#EXTINF:-1 tvg-id="Cachipum TV Series" tvg-logo="https://cachipum.tv/wp-content/uploads/2020/04/logo.png" group-title="CHILE REGIONALES", Cachipum TV Series
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57784
-
-#EXTINF:-1 tvg-id="CANAL 2 SAN ANTONIO" tvg-logo="noimage.png" group-title="CHILE REGIONALES", CANAL 2 SAN ANTONIO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15873
-
-#EXTINF:-1 tvg-id="Canal 33 Temuco" tvg-logo="https://590c5dc5c3271.streamlock.net/eduardo555/eduardo555/playlist.m3u8?PlaylistM3UCL" group-title="CHILE REGIONALES", Canal 33 Temuco
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57777
-
-#EXTINF:-1 tvg-id="CANAL ANTOFAGASTA" tvg-logo="http://amcanal.cl/wp-content/uploads/2019/03/Logo_Blanco_Amcanal@2x.png" group-title="CHILE REGIONALES", CANAL ANTOFAGASTA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15872
-
-#EXTINF:-1 tvg-id="CAPPISSIMA MULTIMEDIAL ARICA" tvg-logo="https://top-radio.org/wp-content/uploads/logo-fb/J5s2DAfnAB.jpg" group-title="CHILE REGIONALES", CAPPISSIMA MULTIMEDIAL ARICA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15871
-
-#EXTINF:-1 tvg-id="CAROLINA TV" tvg-logo="http://www.carolina.cl/tv/img/logo.png" group-title="CHILE REGIONALES", CAROLINA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2277
-
-#EXTINF:-1 tvg-id="CONTIVISION MUSICA" tvg-logo="https://lh3.googleusercontent.com/-wWvPNIeSDSw/Wn9lX-H2FWI/AAAAAAAAgwc/SsfCyM-wBWgDBxA5lU2NNkOOKUCfw_oiQCK8BGAs/s240/2018-02-10.png" group-title="CHILE REGIONALES", CONTIVISION MUSICA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2272
-
-#EXTINF:-1 tvg-id="CSTV" tvg-logo="noimage.png" group-title="CHILE REGIONALES", CSTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58127
-
-#EXTINF:-1 tvg-id="Estacion TV" tvg-logo="noimage.png" group-title="CHILE REGIONALES", Estacion TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57778
-
-#EXTINF:-1 tvg-id="Gracia TV" tvg-logo="data:image/png;base64,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" group-title="CHILE REGIONALES", Gracia TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57779
-
-#EXTINF:-1 tvg-id="HIPERTV" tvg-logo="noimage.png" group-title="CHILE REGIONALES", HIPERTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58116
-
-#EXTINF:-1 tvg-id="ITV PATAGONIA" tvg-logo="https://img.wikicharlie.cl/3/32/Logo_Itv.png" group-title="CHILE REGIONALES", ITV PATAGONIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2361
-
-#EXTINF:-1 tvg-id="PINGUINO TV PUNTA ARENAS" tvg-logo="http://i.imgur.com/WXhBnNv.png" group-title="CHILE REGIONALES", PINGUINO TV PUNTA ARENAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2257
-
-#EXTINF:-1 tvg-id="PINTANA TV" tvg-logo="noimage.png" group-title="CHILE REGIONALES", PINTANA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58115
-
-#EXTINF:-1 tvg-id="PORTAL FOX MIX" tvg-logo="http://portalfoxmix.club/wp-content/uploads/2016/07/logoPFM.png" group-title="CHILE REGIONALES", PORTAL FOX MIX
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2273
-
-#EXTINF:-1 tvg-id="PUERTA NORTE" tvg-logo="noimage.png" group-title="CHILE REGIONALES", PUERTA NORTE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15870
-
-#EXTINF:-1 tvg-id="RETRO PLUS TV" tvg-logo="https://lh3.googleusercontent.com/-ZPRBPNcWsQg/XT7iD75k5nI/AAAAAAAAp8A/-lRzlw_PC0oLTYts2MMOee8cji3fT_DAwCK8BGAs/s0/2019-07-29.png" group-title="CHILE REGIONALES", RETRO PLUS TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2264
-
-#EXTINF:-1 tvg-id="Rewind TV" tvg-logo="https://www.rewindtv.cl/wp-content/uploads/2020/09/cropped-REWIND-TV-LOGO-NUEVO-5.png" group-title="CHILE REGIONALES", Rewind TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58117
-
-#EXTINF:-1 tvg-id="TELETON TV" tvg-logo="https://grandesmarcas.cl/wp-content/uploads/2016/06/logo-Teleton.jpg" group-title="CHILE REGIONALES", TELETON TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15866
-
-#EXTINF:-1 tvg-id="ThemaTV" tvg-logo="https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL" group-title="CHILE REGIONALES", ThemaTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57781
-
-#EXTINF:-1 tvg-id="TVO San Vicente" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Logotipo_TVO_San_Vicente.png" group-title="CHILE REGIONALES", TVO San Vicente
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57782
-
-#EXTINF:-1 tvg-id="UesTV" tvg-logo="https://www.uestv.cl//wp-content/uploads/2018/07/uestvlogo.png" group-title="CHILE REGIONALES", UesTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57783
-
-#EXTINF:-1 tvg-id="VALPARAISO SPORTING" tvg-logo="https://www.sporting.cl/hipica/imag/v1/logos/hipica_logo2.gif" group-title="CHILE REGIONALES", VALPARAISO SPORTING
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/2359
-
 #EXTINF:-1 tvg-id="A&E ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg" group-title="CINE", A&E ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/38796
 
@@ -1699,174 +871,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/64880
 
 #EXTINF:-1 tvg-id="WARNER TV ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="CINE", WARNER TV ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/1763
-
-#EXTINF:-1 tvg-id="COL: CABLE NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/1200px-Cable_Noticias_logo.svg.png" group-title="COLOMBIA", COL: CABLE NOTICIAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/4003
-
-#EXTINF:-1 tvg-id="canalcapital.co" tvg-logo="https://datosabiertos.bogota.gov.co/uploads/group/2020-05-05-171413.288706logo-canal-2020.png" group-title="COLOMBIA", COL: CANAL CAPITAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/43359
-
-#EXTINF:-1 tvg-id="COL: CANAL TRECE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Trece2017.png" group-title="COLOMBIA", COL: CANAL TRECE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3973
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG" group-title="COLOMBIA", COL: CANAL TRO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/43360
-
-#EXTINF:-1 tvg-id="canal1.co" tvg-logo="noimage.png" group-title="COLOMBIA", COL: CANAL UNO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17780
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="COLOMBIA", COL: CANAL UNO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3999
-
-#EXTINF:-1 tvg-id="COL: CARACOL" tvg-logo="noimage.png" group-title="COLOMBIA", COL: CARACOL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58371
-
-#EXTINF:-1 tvg-id="COL: CARACOL (sd)" tvg-logo="noimage.png" group-title="COLOMBIA", COL: CARACOL (sd)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61828
-
-#EXTINF:-1 tvg-id="COL: CARACOL INTERNACIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA", COL: CARACOL INTERNACIONAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3995
-
-#EXTINF:-1 tvg-id="COL: CARACOL INTERNACIONAL ⁽ᴹ⁾" tvg-logo="http://mail.canalcaracol.com/InterSales/INSTITUCIONAL/LOGO%20CARACOL%20TV%20INTERNACIONAL%202012/CARACOL%20TV%20INTERNACIONAL%20LOGO%20BLANCO%20ALTA.jpg" group-title="COLOMBIA", COL: CARACOL INTERNACIONAL ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17767
-
-#EXTINF:-1 tvg-id="caracol.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/1024px-Caracol_TV_HD_logo.svg.png" group-title="COLOMBIA", COL: CARACOL ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17698
-
-#EXTINF:-1 tvg-id="caracol.co" tvg-logo="https://logovectorseek.com/wp-content/uploads/2019/08/caracol-tv-logo-vector.png" group-title="COLOMBIA", COL: CARACOL ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17787
-
-#EXTINF:-1 tvg-id="COL: CITY TV" tvg-logo="https://citytv.com.co/live/img/citytv.png" group-title="COLOMBIA", COL: CITY TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3994
-
-#EXTINF:-1 tvg-id="COL: CITY TV 1" tvg-logo="https://4.bp.blogspot.com/-zry6sgkjSHw/V24lwa3aFkI/AAAAAAAAAt4/9FJ11hhgNY8lmS-5-kSY9NmR2e03LfYvwCLcB/s1600/citytv.png" group-title="COLOMBIA", COL: CITY TV 1
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17772
-
-#EXTINF:-1 tvg-id="COL: COSMOVISION" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/cosmovision.png" group-title="COLOMBIA", COL: COSMOVISION
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3991
-
-#EXTINF:-1 tvg-id="COL: NTN 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA", COL: NTN 24
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17789
-
-#EXTINF:-1 tvg-id="COL: NTN24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/NTN24_Logo.png" group-title="COLOMBIA", COL: NTN24
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3990
-
-#EXTINF:-1 tvg-id="COL: PASIONES" tvg-logo="http://www.laetv.tv/images/pasiones.png" group-title="COLOMBIA", COL: PASIONES
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17786
-
-#EXTINF:-1 tvg-id="COL: PASIONES (T)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1280px-Pasiones_Tv_logo.svg.png" group-title="COLOMBIA", COL: PASIONES (T)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3989
-
-#EXTINF:-1 tvg-id="rcn.co" tvg-logo="noimage.png" group-title="COLOMBIA", COL: RCN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3986
-
-#EXTINF:-1 tvg-id="COL: RCN (D)" tvg-logo="noimage.png" group-title="COLOMBIA", COL: RCN (D)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3972
-
-#EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/rcn-tv-logo.jpg" group-title="COLOMBIA", COL: RCN *
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17759
-
-#EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/RCNNuestraTele2018.png" group-title="COLOMBIA", COL: RCN INTERNACIONAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17762
-
-#EXTINF:-1 tvg-id="COL: RCN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Noticias_RCN_%28Colombia%29_logo.png" group-title="COLOMBIA", COL: RCN NOTICIAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17760
-
-#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title="COLOMBIA", COL: RCN NOVELAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17761
-
-#EXTINF:-1 tvg-id="rcnnovelas.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/RCN_Novelas.png" group-title="COLOMBIA", COL: RCN NOVELAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3982
-
-#EXTINF:-1 tvg-id="COL: RCN NUESTRA TELE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/CanalRCNNuestrateleInternacional2019.png" group-title="COLOMBIA", COL: RCN NUESTRA TELE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15710
-
-#EXTINF:-1 tvg-id="rcn.co" tvg-logo="https://www.comunidad-ola.com/portal/images/Logosempresas/rcn-tv-logo.jpg" group-title="COLOMBIA", COL: RCN ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17758
-
-#EXTINF:-1 tvg-id="COL: SEÑAL COLOMBIA" tvg-logo="noimage.png" group-title="COLOMBIA", COL: SEÑAL COLOMBIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17781
-
-#EXTINF:-1 tvg-id="COL: TELEAMIGA" tvg-logo="noimage.png" group-title="COLOMBIA", COL: TELEAMIGA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17778
-
-#EXTINF:-1 tvg-id="COL: TELEANTIOQUIA" tvg-logo="https://media.metrolatam.com/2019/07/27/teleantioquia1-51214b7715492c914ad0ee128360006b-1200x600.jpg" group-title="COLOMBIA", COL: TELEANTIOQUIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17774
-
-#EXTINF:-1 tvg-id="COL: TELEANTIOQUIA **" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleantioquia.png" group-title="COLOMBIA", COL: TELEANTIOQUIA **
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3981
-
-#EXTINF:-1 tvg-id="COL: TELECAFE" tvg-logo="noimage.png" group-title="COLOMBIA", COL: TELECAFE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17779
-
-#EXTINF:-1 tvg-id="COL: TELECARIBE" tvg-logo="https://lh3.googleusercontent.com/PJMLraQ2aMcVBv5rJmuk4qVVknAOYfbOQBBeKX1WSKcU0dV6knrhgxxynhOdvxg4qPU" group-title="COLOMBIA", COL: TELECARIBE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17777
-
-#EXTINF:-1 tvg-id="COL: TELECARIBE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Telecaribe2017.png" group-title="COLOMBIA", COL: TELECARIBE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3978
-
-#EXTINF:-1 tvg-id="COL: TELEMEDELLIN" tvg-logo="noimage.png" group-title="COLOMBIA", COL: TELEMEDELLIN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17775
-
-#EXTINF:-1 tvg-id="COL: TELEMEDELLIN" tvg-logo="noimage.png" group-title="COLOMBIA", COL: TELEMEDELLIN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3977
-
-#EXTINF:-1 tvg-id="COL: TELEPACIFICO" tvg-logo="https://90minutos.co/wp-content/uploads/2016/10/telepacifico-con-cuatro-nuevas-propuestas-televisivas-1.jpg" group-title="COLOMBIA", COL: TELEPACIFICO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17776
-
-#EXTINF:-1 tvg-id="COL: TELEPACIFICO" tvg-logo="noimage.png" group-title="COLOMBIA", COL: TELEPACIFICO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3976
-
-#EXTINF:-1 tvg-id="COL: TV AGRO" tvg-logo="noimage.png" group-title="COLOMBIA", COL: TV AGRO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17782
-
-#EXTINF:-1 tvg-id="COL: WIN SPORTS" tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="COLOMBIA", COL: WIN SPORTS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17769
-
-#EXTINF:-1 tvg-id="COL: WIN SPORTS +" tvg-logo="https://www.winsports.co/assets/img/win/winsports-small_2017.png" group-title="COLOMBIA", COL: WIN SPORTS +
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17768
-
-#EXTINF:-1 tvg-id="Canal 9" tvg-logo="http://tv.iptv5latino.cl:8080/images/5b6e35223e676511043318f8daafbc3b.png" group-title="COSTA RICA", Canal 9
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66379
-
-#EXTINF:-1 tvg-id="FUTV HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/954dedd4c20f1a0de4c5bdd709de80db.jpg" group-title="COSTA RICA", FUTV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66371
-
-#EXTINF:-1 tvg-id="FUTV Op 2" tvg-logo="http://tv.iptv5latino.cl:8080/images/954dedd4c20f1a0de4c5bdd709de80db.jpg" group-title="COSTA RICA", FUTV Op 2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66378
-
-#EXTINF:-1 tvg-id="Limon TV HD" tvg-logo="https://www.limontv36.com/gallery_gen/314cea1de7e0e690d4275dcec61d5ca2_590x373.png" group-title="COSTA RICA", Limon TV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66377
-
-#EXTINF:-1 tvg-id="Multimedios" tvg-logo="http://tv.iptv5latino.cl:8080/images/f0dd2f207e3f80d5aee5a40ee2291e54.png" group-title="COSTA RICA", Multimedios
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66374
-
-#EXTINF:-1 tvg-id="Repretel 4 SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/f12c62586d76e81cd752c577905bff2a.png" group-title="COSTA RICA", Repretel 4 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66367
-
-#EXTINF:-1 tvg-id="Repretel 6 SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/67714a43e5c2b9b3390cea34847f9a3c.png" group-title="COSTA RICA", Repretel 6 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66368
-
-#EXTINF:-1 tvg-id="TD+ 2 HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/3ddebe7c9414e9575f19070aab4e4fc7.png" group-title="COSTA RICA", TD+ 2 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66376
-
-#EXTINF:-1 tvg-id="TD+ HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/15f09d7f989093a5dad6ace42bf3af8d.jpg" group-title="COSTA RICA", TD+ HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66372
-
-#EXTINF:-1 tvg-id="Tele Uno SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/0ad00ac33dd421c509da1a7cd5826441.png" group-title="COSTA RICA", Tele Uno SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66369
-
-#EXTINF:-1 tvg-id="Teletica 7 HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/4d572ea32b4f927fe8a867caf9087b53.png" group-title="COSTA RICA", Teletica 7 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66375
-
-#EXTINF:-1 tvg-id="Teletica 7 SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/4d572ea32b4f927fe8a867caf9087b53.png" group-title="COSTA RICA", Teletica 7 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66370
-
-#EXTINF:-1 tvg-id="Tigo Sports - CR" tvg-logo="http://tv.iptv5latino.cl:8080/images/bb3c105231ed426faf76d2c92d3db8f9.png" group-title="COSTA RICA", Tigo Sports - CR
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66373
-
-#EXTINF:-1 tvg-id="Tigo Sports HD - CR" tvg-logo="https://sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png" group-title="COSTA RICA", Tigo Sports HD - CR
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/66366
 
 #EXTINF:-1 tvg-id="ADRENALINA SPORTS (ʜᴅ)" tvg-logo="https://www.totalplay.com.mx/images/logos/canales/deportes/adrenalina.png" group-title="DEPORTES", ADRENALINA SPORTS (ʜᴅ)
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15921
@@ -2462,50 +1466,155 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15346
 #EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/841px-WWE_Logo.svg.png" group-title="DEPORTES", WWE ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/33364
 
-#EXTINF:-1 tvg-id="SALV: CANAL 12" tvg-logo="http://tv.iptv5region.com:25461/images/c06fd64365f3986758cbdf57cabfe948.jpg" group-title="EL SALVADOR", SALV: CANAL 12
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17743
+#EXTINF:-1 tvg-id="Ecuador - Canal del Futbol FHD ( Solo Eventos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - Canal del Futbol FHD ( Solo Eventos )
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63539
 
-#EXTINF:-1 tvg-id="SALV: CANAL 19" tvg-logo="noimage.png" group-title="EL SALVADOR", SALV: CANAL 19
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63124
+#EXTINF:-1 tvg-id="Ecuador - Canal del Futbol SD ( Solo Eventos )" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - Canal del Futbol SD ( Solo Eventos )
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63541
 
-#EXTINF:-1 tvg-id="SALV: CANAL 2" tvg-logo="http://tv.iptv5region.com:25461/images/a8c2d78a9b13507659036ae53d99fb02.png" group-title="EL SALVADOR", SALV: CANAL 2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17745
+#EXTINF:-1 tvg-id="Ecuador - Canal Uno HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR", Ecuador - Canal Uno HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63545
 
-#EXTINF:-1 tvg-id="SALV: CANAL 21" tvg-logo="http://tv.iptv5region.com:25461/images/3d4bbb68711434806dde81491a396b8b.png" group-title="EL SALVADOR", SALV: CANAL 21
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17746
+#EXTINF:-1 tvg-id="Ecuador - Canal Uno SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/Canal_Uno_%28Ecuador%29_logo.png" group-title="ECUADOR", Ecuador - Canal Uno SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63546
 
-#EXTINF:-1 tvg-id="SALV: CANAL 33" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Canal_33_El_Salvador_2007.png" group-title="EL SALVADOR", SALV: CANAL 33
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/49132
+#EXTINF:-1 tvg-id="Ecuador - Canela TV SD" tvg-logo="https://pbs.twimg.com/profile_images/882261860401262594/pXxnnUAk_400x400.jpg" group-title="ECUADOR", Ecuador - Canela TV SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63547
 
-#EXTINF:-1 tvg-id="SALV: CANAL 4" tvg-logo="http://tv.iptv5region.com:25461/images/afb314a20a17b8f82ddd2bf78a8b8e7c.png" group-title="EL SALVADOR", SALV: CANAL 4
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17749
+#EXTINF:-1 tvg-id="Ecuador - Directv Sports HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/DirecTV_Sports_Latin_America_-_2018_logo_v2.svg" group-title="ECUADOR", Ecuador - Directv Sports HD*
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63549
 
-#EXTINF:-1 tvg-id="SALV: CANAL 6" tvg-logo="http://tv.iptv5region.com:25461/images/7b7cdd444b39157b2a916d79fc4ebe49.png" group-title="EL SALVADOR", SALV: CANAL 6
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17747
+#EXTINF:-1 tvg-id="Ecuador - Directv Sports Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="ECUADOR", Ecuador - Directv Sports Plus HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63550
 
-#EXTINF:-1 tvg-id="SALV: CANAL TRV" tvg-logo="noimage.png" group-title="EL SALVADOR", SALV: CANAL TRV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63125
+#EXTINF:-1 tvg-id="Ecuador - Ecuador TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", Ecuador - Ecuador TV FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63552
 
-#EXTINF:-1 tvg-id="SALV: CANAL TVM" tvg-logo="https://pbs.twimg.com/profile_images/887027715014090754/OEUA2Kal_400x400.jpg" group-title="EL SALVADOR", SALV: CANAL TVM
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63126
+#EXTINF:-1 tvg-id="Ecuador - Ecuador TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", Ecuador - Ecuador TV HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63553
 
-#EXTINF:-1 tvg-id="SALV: ELIM TV" tvg-logo="noimage.png" group-title="EL SALVADOR", SALV: ELIM TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63127
+#EXTINF:-1 tvg-id="Ecuador - Ecuador TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="ECUADOR", Ecuador - Ecuador TV SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63554
 
-#EXTINF:-1 tvg-id="SALV: ORBITA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/Logo_Orbita_Tv.png" group-title="EL SALVADOR", SALV: ORBITA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63128
+#EXTINF:-1 tvg-id="Ecuador - Ecuavisa HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa HD*
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63555
 
-#EXTINF:-1 tvg-id="SALV: TABER TV" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_02/large.589689416f983_TaberTV.png.47cf9534daf74008b24a435fb4343a51.png" group-title="EL SALVADOR", SALV: TABER TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63129
+#EXTINF:-1 tvg-id="Ecuador - Ecuavisa Internacional FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", Ecuador - Ecuavisa Internacional FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63556
 
-#EXTINF:-1 tvg-id="SALV: TVX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/TVX_El_Salvador.png" group-title="EL SALVADOR", SALV: TVX
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/49133
+#EXTINF:-1 tvg-id="Ecuador - Ecuavisa Internacional SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/1200px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", Ecuador - Ecuavisa Internacional SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63557
 
-#EXTINF:-1 tvg-id="SALV: VTV CANAL 35" tvg-logo="http://tv.iptv5region.com:25461/images/d08c1bf07651e74c2e702c74dad31e3d.png" group-title="EL SALVADOR", SALV: VTV CANAL 35
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/17748
+#EXTINF:-1 tvg-id="Ecuador - Ecuavisa [Gquil] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa [Gquil] FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63558
 
-#EXTINF:-1 tvg-id="SALV: WOW TV" tvg-logo="https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8?PlaylistM3UCL" group-title="EL SALVADOR", SALV: WOW TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58135
+#EXTINF:-1 tvg-id="Ecuador - Ecuavisa [Gquil] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa [Gquil] SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63560
+
+#EXTINF:-1 tvg-id="Ecuador - Ecuavisa [Quito] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuador - Ecuavisa [Quito] FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63562
+
+#EXTINF:-1 tvg-id="Ecuador - El Canal del Futbol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Isotipo-ECDF.png" group-title="ECUADOR", Ecuador - El Canal del Futbol HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63540
+
+#EXTINF:-1 tvg-id="Ecuador - Gamavision FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", Ecuador - Gamavision FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63564
+
+#EXTINF:-1 tvg-id="Ecuador - Gamavision HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="ECUADOR", Ecuador - Gamavision HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63565
+
+#EXTINF:-1 tvg-id="Ecuador - Gol TV HD (ing)" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", Ecuador - Gol TV HD (ing)
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63599
+
+#EXTINF:-1 tvg-id="Ecuador - Gol TV SD" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", Ecuador - Gol TV SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63598
+
+#EXTINF:-1 tvg-id="Ecuador - Oromar TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", Ecuador - Oromar TV HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63570
+
+#EXTINF:-1 tvg-id="Ecuador - Oromar TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" group-title="ECUADOR", Ecuador - Oromar TV SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63571
+
+#EXTINF:-1 tvg-id="Ecuador - RTS FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", Ecuador - RTS FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63572
+
+#EXTINF:-1 tvg-id="Ecuador - RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", Ecuador - RTS HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63573
+
+#EXTINF:-1 tvg-id="Ecuador - RTS SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", Ecuador - RTS SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63574
+
+#EXTINF:-1 tvg-id="Ecuador - RTU SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Logo_rtu.jpg" group-title="ECUADOR", Ecuador - RTU SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63575
+
+#EXTINF:-1 tvg-id="Ecuador - TC Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", Ecuador - TC Television HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63577
+
+#EXTINF:-1 tvg-id="Ecuador - TC Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/TC_logo2020.webp/208px-TC_logo2020.webp.png" group-title="ECUADOR", Ecuador - TC Television HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63578
+
+#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Gquil] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Gquil] FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63580
+
+#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Gquil] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Gquil] SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63582
+
+#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Quito] FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Quito] FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63584
+
+#EXTINF:-1 tvg-id="Ecuador - Teleamazonas [Quito] SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR", Ecuador - Teleamazonas [Quito] SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63585
+
+#EXTINF:-1 tvg-id="Ecuador - TVC 2mb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/TVCEC.png" group-title="ECUADOR", Ecuador - TVC 2mb
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63586
+
+#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", GOL TV (ecuador)
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54995
+
+#EXTINF:-1 tvg-id="GOL TV ⁽ᴴᴰ⁾" tvg-logo="https://pbs.twimg.com/profile_images/879438340776497152/y_KDzsKf.jpg" group-title="ECUADOR", GOL TV ⁽ᴴᴰ⁾
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54996
+
+#EXTINF:-1 tvg-id="EC : RTS SD" tvg-logo="http://tv.iptv5latino.cl:8080/images/243653d8062248c551885f2a80f2f571.png" group-title="ECUADOR 2", EC : RTS SD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68858
+
+#EXTINF:-1 tvg-id="EC: CANAL UNO HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/f6b43fbf6fd05dfe246104175d15e850.png" group-title="ECUADOR 2", EC: CANAL UNO HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68859
+
+#EXTINF:-1 tvg-id="EC: DIRECTV" tvg-logo="http://tv.iptv5latino.cl:8080/images/3ff1a54c1a1fba3ae2747790c128abce.png" group-title="ECUADOR 2", EC: DIRECTV
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68863
+
+#EXTINF:-1 tvg-id="EC: ECUADOR TV" tvg-logo="https://i.ibb.co/8XYpCKL/ECUADOR-TV.png" group-title="ECUADOR 2", EC: ECUADOR TV
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68851
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA INTERNACIONAL" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA INTERNACIONAL
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68852
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA QUITO" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA QUITO
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68853
+
+#EXTINF:-1 tvg-id="EC: ECUAVISA SIERRA" tvg-logo="http://tv.iptv5latino.cl:8080/images/4efe4dfdf0f207e495772996f367320d.png" group-title="ECUADOR 2", EC: ECUAVISA SIERRA
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68854
+
+#EXTINF:-1 tvg-id="EC: EL CANAL DEL FUTBOL FHD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8cbb628a158c65f7ef7bb83ebaa73520.png" group-title="ECUADOR 2", EC: EL CANAL DEL FUTBOL FHD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68860
+
+#EXTINF:-1 tvg-id="EC: GAMAVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/519024968a7e7b9ffb2d576356ca12b5.png" group-title="ECUADOR 2", EC: GAMAVISION HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68855
+
+#EXTINF:-1 tvg-id="EC: GOL TV SD OP1" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP1
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68861
+
+#EXTINF:-1 tvg-id="EC: GOL TV SD OP2" tvg-logo="http://tv.iptv5latino.cl:8080/images/6de09427c8f65f71ce84d69e3414fbb8.png" group-title="ECUADOR 2", EC: GOL TV SD OP2
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68862
+
+#EXTINF:-1 tvg-id="EC: TC TELEVISION HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/ff9c072d42a94d0a5112613019b54eae.png" group-title="ECUADOR 2", EC: TC TELEVISION HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68857
+
+#EXTINF:-1 tvg-id="EC: TELEAMAZONAS HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8fd44f7a29a44a2687d321a3afd6d1e6.png" group-title="ECUADOR 2", EC: TELEAMAZONAS HD
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68856
+
+#EXTINF:-1 tvg-id="LIGA DE ECUADOR" tvg-logo="noimage.png" group-title="ECUADOR 2", LIGA DE ECUADOR
+http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/68864
 
 #EXTINF:-1 tvg-id="ANIMAL PLANET ⁽ᴴᴰ⁾" tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Animal_Planet_channel_logo_green.png" group-title="ENTRETENCIÓN", ANIMAL PLANET ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/5406
@@ -2828,60 +1937,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3644
 #EXTINF:-1 tvg-id="ES: VIAJAR*" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Canal_viajar.PNG" group-title="ESPAÑA", ES: VIAJAR*
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/27468
 
-#EXTINF:-1 tvg-id="GM: Canal Antigua" tvg-logo="https://www.foromedios.com/uploads/monthly_2016_08/small.57aa76ceca577_CanalAntigua_Nuevo.png.9a87a49f5a1620c5c027d8ac58135c9b.png" group-title="GUATEMALA", GM: Canal Antigua
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53993
-
-#EXTINF:-1 tvg-id="GM: Canal Azteca" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/05/Azteca-Guatemala-en-vivo-Online.png" group-title="GUATEMALA", GM: Canal Azteca
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53994
-
-#EXTINF:-1 tvg-id="GM: Canal 11" tvg-logo="https://forounivers.com/uploads/monthly_2018_07/large.logocanal11Guatemala.png.624766e19d4229c3f1e31fa7294a1c9e.png" group-title="GUATEMALA", GM: Canal 11
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53995
-
-#EXTINF:-1 tvg-id="GM: Canal 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Televisiete.png" group-title="GUATEMALA", GM: Canal 7
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53997
-
-#EXTINF:-1 tvg-id="GM: Guatevision" tvg-logo="https://i.pinimg.com/originals/cf/9e/4a/cf9e4a0ed45c7153e58aa106bb1ed5cc.png" group-title="GUATEMALA", GM: Guatevision
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53998
-
-#EXTINF:-1 tvg-id="Honduras - Azteca Honduras" tvg-logo="http://144.217.91.146/Logos/Honduras/azteca-hn.png" group-title="HONDURAS", Honduras - Azteca Honduras
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65546
-
-#EXTINF:-1 tvg-id="Honduras - Canal 11" tvg-logo="http://tv.iptv5latino.cl:8080/images/36aeda2ed3f9831ff1c5e147afa11dcd.png" group-title="HONDURAS", Honduras - Canal 11
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65547
-
-#EXTINF:-1 tvg-id="Honduras - Canal 5 HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/21f997cca25b68ca0be51a5123495fb0.png" group-title="HONDURAS", Honduras - Canal 5 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65548
-
-#EXTINF:-1 tvg-id="Honduras - Canal 6 HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/d86d139cef1e7aadebf44f056af17afc.png" group-title="HONDURAS", Honduras - Canal 6 HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65549
-
-#EXTINF:-1 tvg-id="Honduras - D Television" tvg-logo="http://www.honduras504.com/img/tv/DTV.jpg" group-title="HONDURAS", Honduras - D Television
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65550
-
-#EXTINF:-1 tvg-id="Honduras - Ebenezer" tvg-logo="noimage.png" group-title="HONDURAS", Honduras - Ebenezer
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65551
-
-#EXTINF:-1 tvg-id="Honduras - Mega TV HD" tvg-logo="noimage.png" group-title="HONDURAS", Honduras - Mega TV HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65552
-
-#EXTINF:-1 tvg-id="Honduras - SITV" tvg-logo="noimage.png" group-title="HONDURAS", Honduras - SITV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65553
-
-#EXTINF:-1 tvg-id="Honduras - Telecadena HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/5daa48d99dbadf4ffdb1df9543ae3b4b.png" group-title="HONDURAS", Honduras - Telecadena HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65554
-
-#EXTINF:-1 tvg-id="Honduras - Teleceiba HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/c75843eedf4f450dd7f5f3dcba92413c.png" group-title="HONDURAS", Honduras - Teleceiba HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65555
-
-#EXTINF:-1 tvg-id="Honduras - Teleprogreso" tvg-logo="http://tv.iptv5latino.cl:8080/images/769b0cb592dec7cfe8942aa7b48b3bc2.png" group-title="HONDURAS", Honduras - Teleprogreso
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65556
-
-#EXTINF:-1 tvg-id="Honduras - Tigo Sports HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/323329b818a33c0313388f7d9f26c3b0.png" group-title="HONDURAS", Honduras - Tigo Sports HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65557
-
-#EXTINF:-1 tvg-id="Honduras - TSI HD" tvg-logo="http://tv.iptv5latino.cl:8080/images/8433109b7b62eb6c18d8261f29d58505.png" group-title="HONDURAS", Honduras - TSI HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65558
-
 #EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://img2.freepng.es/20181109/icl/kisspng-clip-art-babyfirsttv-television-channel-babyfirst-babyfirst-wikipedia-lobster-house-5be5b50f0566b7.6279683815417807510221.jpg" group-title="INFANTIL", BABY FIRST*
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/42429
 
@@ -3098,81 +2153,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55445
 #EXTINF:-1 tvg-id="warner.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="LATINOS SD", Warner Channel ⁽ˢᵈ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55447
 
-#EXTINF:-1 tvg-id="MEX : CANAL 66 MEXICALI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/canal66.png" group-title="MÉXICO", MEX : CANAL 66 MEXICALI
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57846
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://tv-azteca-brightspot.s3-us-west-1.amazonaws.com/program_schedule/ADN40.png" group-title="MÉXICO", MEX: ADN 40
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3855
-
-#EXTINF:-1 tvg-id="adn40.mx" tvg-logo="noimage.png" group-title="MÉXICO", MEX: ADN 40*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/49383
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="MÉXICO", MEX: AZ CLIC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3851
-
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-logo="https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png" group-title="MÉXICO", MEX: AZ CORAZON
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3850
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://www.gruposalinas.com/images/v_economico/azteca/azteca1.png" group-title="MÉXICO", MEX: AZ UNO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3845
-
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="MÉXICO", MEX: AZTECA 7
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3852
-
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-logo="https://static.wixstatic.com/media/0cd32b_64648dd9329f4741b1b31fdd237bff79~mv2.png" group-title="MÉXICO", MEX: AZTECA 7*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3848
-
-#EXTINF:-1 tvg-id="MEX: CANAL 44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/XHIJ_TV_Canal_44_2012_Logo.png" group-title="MÉXICO", MEX: CANAL 44
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57844
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://img2.freepng.es/20180831/bsq/kisspng-vector-graphics-logo-adobe-illustrator-artwork-ima-canal-5-logo-svg-vector-amp-png-transparent-ve-5b89c4d973eba6.7574586315357554814748.jpg" group-title="MÉXICO", MEX: CANAL 5
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3842
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://img2.freepng.es/20180426/hoe/kisspng-televisa-gala-tv-television-channel-xeq-tdt-5ae1661b8b5cb9.7709153315247211795708.jpg" group-title="MÉXICO", MEX: CANAL 9 GALA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3841
-
-#EXTINF:-1 tvg-id="MEX: CANAL ONCE" tvg-logo="https://i.blogs.es/8cd3f6/logooncetv/450_1000.jpg" group-title="MÉXICO", MEX: CANAL ONCE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3839
-
-#EXTINF:-1 tvg-id="MEX: DE PELICULA PLUS" tvg-logo="https://forounivers.com/uploads/monthly_2017_10/large.dpplus.png.d14ca5ea9e0645af7d57f9b9d0836f39.png" group-title="MÉXICO", MEX: DE PELICULA PLUS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3835
-
-#EXTINF:-1 tvg-id="MEX: DEPELICULA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="MÉXICO", MEX: DEPELICULA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3836
-
-#EXTINF:-1 tvg-id="MEX: DISTRITO COMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png" group-title="MÉXICO", MEX: DISTRITO COMEDIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3833
-
-#EXTINF:-1 tvg-id="MEX: FORO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo-ForoTV-2016.png" group-title="MÉXICO", MEX: FORO TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3828
-
-#EXTINF:-1 tvg-id="MEX: GALAVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Galavisi%C3%B3n_logo2012.png" group-title="MÉXICO", MEX: GALAVISION
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3826
-
-#EXTINF:-1 tvg-id="MEX: IMAGEN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo-Imagen-TV-MX.png" group-title="MÉXICO", MEX: IMAGEN TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3822
-
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MÉXICO", MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3830
-
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_LasEstrellas_Negro.svg/1280px-Logo_LasEstrellas_Negro.svg.png" group-title="MÉXICO", MEX: LAS ESTRELLAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3832
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="MÉXICO", MEX: MILENIO TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3821
-
-#EXTINF:-1 tvg-id="MEX: MULTIMEDIOS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Multimedios_Television.png" group-title="MÉXICO", MEX: MULTIMEDIOS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39295
-
-#EXTINF:-1 tvg-id="MEX: TELEFORMULA" tvg-logo="https://pbs.twimg.com/media/C9y4NqyWAAsrepN.jpg" group-title="MÉXICO", MEX: TELEFORMULA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3819
-
-#EXTINF:-1 tvg-id="tlnovelas.mx" tvg-logo="https://w7.pngwing.com/pngs/598/22/png-transparent-tlnovelas-televisa-telenovela-television-univision-others-miscellaneous-television-text.png" group-title="MÉXICO", MEX: TLENOVELAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3818
-
-#EXTINF:-1 tvg-id="MEX: UNICABLE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Unicable_logo.svg/1200px-Unicable_logo.svg.png" group-title="MÉXICO", MEX: UNICABLE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3815
-
 #EXTINF:-1 tvg-id="Mix 24-7 Retro" tvg-logo="https://static.wixstatic.com/media/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.jpeg/v1/fill/w_640,h_400,al_c,q_80,usm_0.66_1.00_0.01/ad4821_380e71f4ead7416590360f8d86d693c3~mv2.webp" group-title="MÚSICA", Mix 24-7 Retro
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58121
 
@@ -3328,147 +2308,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65389
 
 #EXTINF:-1 tvg-id="TN NOTICIAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png" group-title="NOTICIAS", TN NOTICIAS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/27713
-
-#EXTINF:-1 tvg-id="Hosanna Vision HD - PA" tvg-logo="http://tv.iptv5latino.cl:8080/images/777f5b09e18988e7dd8dfe196cae9b64.png" group-title="PANAMÁ", Hosanna Vision HD - PA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65626
-
-#EXTINF:-1 tvg-id="Mas 23 SD - PA" tvg-logo="http://tv.iptv5latino.cl:8080/images/168f01809325dd2a74290f5715c4ded7.png" group-title="PANAMÁ", Mas 23 SD - PA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65627
-
-#EXTINF:-1 tvg-id="Next TV HD - PA" tvg-logo="http://tv.iptv5latino.cl:8080/images/191a7abdb2f44a2ffcd83fb54c3b3cb5.png" group-title="PANAMÁ", Next TV HD - PA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65628
-
-#EXTINF:-1 tvg-id="RPC 4 SD - PA" tvg-logo="http://tv.iptv5latino.cl:8080/images/cb872ddcbbb04ae45bea59005e3d3734.png" group-title="PANAMÁ", RPC 4 SD - PA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65629
-
-#EXTINF:-1 tvg-id="TV Max 9 SD - PA" tvg-logo="http://tv.iptv5latino.cl:8080/images/fa4006adb5120e910005d5c4e30d9b13.png" group-title="PANAMÁ", TV Max 9 SD - PA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65625
-
-#EXTINF:-1 tvg-id="TVN 2 SD - PA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvn-pa.png" group-title="PANAMÁ", TVN 2 SD - PA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/65624
-
-#EXTINF:-1 tvg-id="Paraguay - Gen TV" tvg-logo="https://pbs.twimg.com/profile_images/659662708/gentv_400x400.jpg" group-title="PARAGUAY", Paraguay - Gen TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63523
-
-#EXTINF:-1 tvg-id="Paraguay - La Tele" tvg-logo="http://tv.iptv5latino.cl:8000/images/3c8051142b3c5da885cfbe8824bbd786.png" group-title="PARAGUAY", Paraguay - La Tele
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63524
-
-#EXTINF:-1 tvg-id="Paraguay - Paraguay TV" tvg-logo="http://tv.iptv5latino.cl:8000/images/d4987eecc6a328792dfe22420dbb0314.png" group-title="PARAGUAY", Paraguay - Paraguay TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63525
-
-#EXTINF:-1 tvg-id="Paraguay - Telefuturo" tvg-logo="http://tv.iptv5latino.cl:8000/images/e31bcb69e237c00134f9975dd94f2e49.png" group-title="PARAGUAY", Paraguay - Telefuturo
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63526
-
-#EXTINF:-1 tvg-id="Paraguay - Unicanal" tvg-logo="http://tv.iptv5latino.cl:8000/images/19942e3fa8afc979e4d8f03afe6a5682.png" group-title="PARAGUAY", Paraguay - Unicanal
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63528
-
-#EXTINF:-1 tvg-id="Paraguay - Unicanal HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/e516e06841d110fff594ec53b4313472.jpg" group-title="PARAGUAY", Paraguay - Unicanal HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63529
-
-#EXTINF:-1 tvg-id="PARAGUAY | C9N" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | C9N
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63521
-
-#EXTINF:-1 tvg-id="PARAGUAY | Gen TV" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | Gen TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63520
-
-#EXTINF:-1 tvg-id="PARAGUAY | La Tele" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | La Tele
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63519
-
-#EXTINF:-1 tvg-id="PARAGUAY | Paraguay TV" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | Paraguay TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63518
-
-#EXTINF:-1 tvg-id="PARAGUAY | Paravision" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | Paravision
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63522
-
-#EXTINF:-1 tvg-id="PARAGUAY | RPC" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | RPC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63517
-
-#EXTINF:-1 tvg-id="PARAGUAY | SNT" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | SNT
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63516
-
-#EXTINF:-1 tvg-id="PARAGUAY | Sur TV" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | Sur TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63515
-
-#EXTINF:-1 tvg-id="PARAGUAY | Telefuturo" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | Telefuturo
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63514
-
-#EXTINF:-1 tvg-id="PARAGUAY | Unicanal" tvg-logo="noimage.png" group-title="PARAGUAY", PARAGUAY | Unicanal
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63513
-
-#EXTINF:-1 tvg-id="PE: AMERICA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERÚ", PE: AMERICA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3727
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/1200px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="PERÚ", PE: America TV FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54952
-
-#EXTINF:-1 tvg-id="PE: AMERICA TV ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Am%C3%A9rica_Televisi%C3%B3n_logo_2016.png" group-title="PERÚ", PE: AMERICA TV ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3452
-
-#EXTINF:-1 tvg-id="PE: ANTARES" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/antarestv.png" group-title="PERÚ", PE: ANTARES
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3451
-
-#EXTINF:-1 tvg-id="PE: ATV" tvg-logo="noimage.png" group-title="PERÚ", PE: ATV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3449
-
-#EXTINF:-1 tvg-id="PE: CANAL N ⁽ˢᵈ⁾" tvg-logo="noimage.png" group-title="PERÚ", PE: CANAL N ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3446
-
-#EXTINF:-1 tvg-id="PE: CANAL N*" tvg-logo="noimage.png" group-title="PERÚ", PE: CANAL N*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3443
-
-#EXTINF:-1 tvg-id="PE: CAPITAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Capital_tv.png" group-title="PERÚ", PE: CAPITAL TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3444
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Movistar_Deportes.svg" group-title="PERÚ", PE: CMD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3442
-
-#EXTINF:-1 tvg-id="PE: DIRECTV SPORTS" tvg-logo="http://tv.iptv5latino.cl:8000/images/706bde645b1385e141c934c6cfe3c429.png" group-title="PERÚ", PE: DIRECTV SPORTS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39653
-
-#EXTINF:-1 tvg-id="PE: EXITOSA" tvg-logo="http://54.38.179.129/LOGOS/exitosa.png" group-title="PERÚ", PE: EXITOSA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39650
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="PERÚ", PE: GOL PERU
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3437
-
-#EXTINF:-1 tvg-id="PE: GOL PERU ⁽ˢᵈ⁾" tvg-logo="noimage.png" group-title="PERÚ", PE: GOL PERU ⁽ˢᵈ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/25086
-
-#EXTINF:-1 tvg-id="PE: LATINA" tvg-logo="https://www.pngkey.com/png/full/799-7994347_latina2017oficial-latina-logo-png.png" group-title="PERÚ", PE: LATINA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3433
-
-#EXTINF:-1 tvg-id="PE: LATINA*" tvg-logo="https://www.pngkey.com/png/full/799-7994347_latina2017oficial-latina-logo-png.png" group-title="PERÚ", PE: LATINA*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3436
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://www.foromedios.com/uploads/monthly_2017_05/large.MovistarDeportes-Peru.png.03f1274791dec8bd17af84b5d853bfde.png" group-title="PERÚ", PE: Movistar Deportes Peru HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54954
-
-#EXTINF:-1 tvg-id="PE: Movistar Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERÚ", PE: Movistar Plus
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3430
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/nextvperu.png" group-title="PERÚ", PE: NEXT TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3431
-
-#EXTINF:-1 tvg-id="PE: PANAMERICANA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Panamericana_tv_2009.png" group-title="PERÚ", PE: PANAMERICANA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3428
-
-#EXTINF:-1 tvg-id="PE: PERU MAGICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Peru_magico.png" group-title="PERÚ", PE: PERU MAGICO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3425
-
-#EXTINF:-1 tvg-id="PE: RPP" tvg-logo="http://tv.iptv5latino.cl:8000/images/21401de574db2d99f101ea688eb548be.png" group-title="PERÚ", PE: RPP
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39652
-
-#EXTINF:-1 tvg-id="PE: Sol TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Sol_tv_pe.png" group-title="PERÚ", PE: Sol TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/58132
-
-#EXTINF:-1 tvg-id="PE: TV PERU" tvg-logo="noimage.png" group-title="PERÚ", PE: TV PERU
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3422
-
-#EXTINF:-1 tvg-id="PE: Willax SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/707c32d557dbdb6d6c3adce6af6c7f56.png" group-title="PERÚ", PE: Willax SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39651
-
-#EXTINF:-1 tvg-id="TV PERU" tvg-logo="noimage.png" group-title="PERÚ", TV PERU
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3423
 
 #EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="PPV CINE", Action Max FHD
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54862
@@ -3683,75 +2522,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57746
 #EXTINF:-1 tvg-id="NFL ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="PPV NFL", NFL ⁽ᴴᴰ⁾
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57586
 
-#EXTINF:-1 tvg-id="CANAL 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Antiguo_logo_de_Canal_Once_%28Canal_Once_Televisi%C3%B3n%29.png" group-title="PUERTO RICO", CANAL 11
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39290
-
-#EXTINF:-1 tvg-id="CDM Internacional" tvg-logo="https://4.bp.blogspot.com/-D--Pt2otOhA/WoHsvQlirsI/AAAAAAAAcGQ/J7Oa7fInBOAzpJ3FS77Y0JMRwrsWTyTXQCLcBGAs/s1600/CDMinternacional.png" group-title="PUERTO RICO", CDM Internacional
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57750
-
-#EXTINF:-1 tvg-id="CTNI" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTNi.png" group-title="PUERTO RICO", CTNI
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39286
-
-#EXTINF:-1 tvg-id="MEGA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Mega_TV_-_Logo.png" group-title="PUERTO RICO", MEGA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39287
-
-#EXTINF:-1 tvg-id="TELEMUNDO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PUERTO RICO", TELEMUNDO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39288
-
-#EXTINF:-1 tvg-id="Telemundo ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="PUERTO RICO", Telemundo ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57751
-
-#EXTINF:-1 tvg-id="Univision Puerto Rico ⁽ᴴᴰ⁾" tvg-logo="noimage.png" group-title="PUERTO RICO", Univision Puerto Rico ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57749
-
-#EXTINF:-1 tvg-id="Univision ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="PUERTO RICO", Univision ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57752
-
-#EXTINF:-1 tvg-id="Wapa 2 ⁽ᴴᴰ⁾" tvg-logo="noimage.png" group-title="PUERTO RICO", Wapa 2 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57753
-
-#EXTINF:-1 tvg-id="WAPA AMERICA" tvg-logo="https://cdn.worldvectorlogo.com/logos/wapa-america.svg" group-title="PUERTO RICO", WAPA AMERICA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39293
-
-#EXTINF:-1 tvg-id="WAPA DEPORTES" tvg-logo="noimage.png" group-title="PUERTO RICO", WAPA DEPORTES
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39294
-
-#EXTINF:-1 tvg-id="WAPA TV" tvg-logo="https://www.fundacionelangel.org/wp-content/uploads/2019/02/WAPALogo.png" group-title="PUERTO RICO", WAPA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39291
-
-#EXTINF:-1 tvg-id="WIPR" tvg-logo="noimage.png" group-title="PUERTO RICO", WIPR
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/39289
-
-#EXTINF:-1 tvg-id="Radio Actitud" tvg-logo="https://www.radioshd.online/wp-content/uploads/2018/12/actitud.jpg" group-title="RADIOS CHILENAS", Radio Actitud
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57786
-
-#EXTINF:-1 tvg-id="Radio Agricultura" tvg-logo="https://milemisoras.com/img/channel/0b3cddd6c5ecf6a532791caa9edef313.jpeg" group-title="RADIOS CHILENAS", Radio Agricultura
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57787
-
-#EXTINF:-1 tvg-id="Radio Camila TV" tvg-logo="data:image/jpeg;base64,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" group-title="RADIOS CHILENAS", Radio Camila TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57788
-
-#EXTINF:-1 tvg-id="Radio Candela" tvg-logo="https://lh3.googleusercontent.com/kqnpOGJj2c2PgT0IvSaiBdN79TEKQmtxkEPJnLuXL3G_R5YIt6B1Pz2ehIftfmI2uJA" group-title="RADIOS CHILENAS", Radio Candela
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57789
-
-#EXTINF:-1 tvg-id="Radio Chiloe" tvg-logo="https://static.radio.es/images/broadcasts/dc/d6/18759/c175.png" group-title="RADIOS CHILENAS", Radio Chiloe
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57790
-
-#EXTINF:-1 tvg-id="Radio Cosmos" tvg-logo="https://secureservercdn.net/198.71.233.106/knk.8e1.myftpupload.com/wp-content/uploads/2019/11/cropped-logo-web-1-3-288x96.png" group-title="RADIOS CHILENAS", Radio Cosmos
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57791
-
-#EXTINF:-1 tvg-id="Radio Extasis" tvg-logo="noimage.png" group-title="RADIOS CHILENAS", Radio Extasis
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57800
-
-#EXTINF:-1 tvg-id="Radio Favorita" tvg-logo="https://pbs.twimg.com/profile_images/946442447567118338/CRhyzrVX_400x400.jpg" group-title="RADIOS CHILENAS", Radio Favorita
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57801
-
-#EXTINF:-1 tvg-id="Radio Fiessta" tvg-logo="https://radiofiessta.cl/wp-content/uploads/2017/12/Identidad-Radio-Fiessta-170x170.png" group-title="RADIOS CHILENAS", Radio Fiessta
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57803
-
-#EXTINF:-1 tvg-id="Radio Genial TV" tvg-logo="https://pbs.twimg.com/profile_images/1169396449727188992/VBsytnhF_200x200.jpg" group-title="RADIOS CHILENAS", Radio Genial TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/57804
-
 #EXTINF:-1 tvg-id="ALIENTO VISION" tvg-logo="noimage.png" group-title="RELIGION", ALIENTO VISION
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/29010
 
@@ -3769,327 +2539,6 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/29013
 
 #EXTINF:-1 tvg-id="VIVA CRISTO TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71KgE5KEqvL.png" group-title="RELIGION", VIVA CRISTO TV
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/29014
-
-#EXTINF:-1 tvg-id="RD SD: TELESISTEMA" tvg-logo="https://lh3.googleusercontent.com/ukNME2ODBLq1pwUx2TI1NKw2IpnACIKwDJJOFDyLyzLP0Rwe51cDKdtJJrkqgJ_LG-I" group-title="REPUBLICA DOMINICANA", RD SD: TELESISTEMA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67569
-
-#EXTINF:-1 tvg-id="RD: Canal 4 RD" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD: Canal 4 RD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67571
-
-#EXTINF:-1 tvg-id="RD: CDN 37" tvg-logo="https://yt3.ggpht.com/-ubw_-CFvsqs/AAAAAAAAAAI/AAAAAAAAAAA/8fzxMB6XJ1k/s176-c-k-no/photo.jpg" group-title="REPUBLICA DOMINICANA", RD: CDN 37
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67564
-
-#EXTINF:-1 tvg-id="RD: CDN2" tvg-logo="http://tv.iptv5latino.cl:8080/images/1e489e9ab746062bf39711ec32d5a715.jpg" group-title="REPUBLICA DOMINICANA", RD: CDN2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67565
-
-#EXTINF:-1 tvg-id="RD: COLOR VISION" tvg-logo="http://tv.iptv5latino.cl:8080/images/c27c280947f81b170b80f340c0aeb684.png" group-title="REPUBLICA DOMINICANA", RD: COLOR VISION
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67570
-
-#EXTINF:-1 tvg-id="RD: COLOR VISION 9" tvg-logo="http://tv.iptv5latino.cl:8080/images/5bdef577adb1bde87256539a6baf5629.png" group-title="REPUBLICA DOMINICANA", RD: COLOR VISION 9
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67566
-
-#EXTINF:-1 tvg-id="RD: SuperTV55" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD: SuperTV55
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67572
-
-#EXTINF:-1 tvg-id="RD: TELE 11" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD: TELE 11
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67576
-
-#EXTINF:-1 tvg-id="RD: TELE ANTILLAS" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD: TELE ANTILLAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67573
-
-#EXTINF:-1 tvg-id="RD: TELECENTRO 13" tvg-logo="http://tv.iptv5latino.cl:8080/images/38c0139ef5a7c5630df6acbaaf5c1480.jpg" group-title="REPUBLICA DOMINICANA", RD: TELECENTRO 13
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67567
-
-#EXTINF:-1 tvg-id="RD: TELEMICRO" tvg-logo="http://tv.iptv5latino.cl:8080/images/18e6124c727949b6f4178ef43e0032e8.png" group-title="REPUBLICA DOMINICANA", RD: TELEMICRO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67568
-
-#EXTINF:-1 tvg-id="RD: TELEUNIVERSO" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD: TELEUNIVERSO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67574
-
-#EXTINF:-1 tvg-id="RD:SD DIGITAL 15" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD:SD DIGITAL 15
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67575
-
-#EXTINF:-1 tvg-id="RD:SD TELEUNION" tvg-logo="noimage.png" group-title="REPUBLICA DOMINICANA", RD:SD TELEUNION
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67577
-
-#EXTINF:-1 tvg-id="UR: 1000 X HORA" tvg-logo="noimage.png" group-title="URUGUAY", UR: 1000 X HORA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3768
-
-#EXTINF:-1 tvg-id="UR: A + V" tvg-logo="https://pbs.twimg.com/profile_images/1153150302603894784/MUFOdCa3_400x400.jpg" group-title="URUGUAY", UR: A + V
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3769
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="noimage.png" group-title="URUGUAY", UR: A+V ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55000
-
-#EXTINF:-1 tvg-id="UR: CANAL 4 MONTECARLO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY", UR: CANAL 4 MONTECARLO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3770
-
-#EXTINF:-1 tvg-id="UR: CANAL 4 SALTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY", UR: CANAL 4 SALTO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3765
-
-#EXTINF:-1 tvg-id="UR: CANAL 4 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Canalcuatrovivoparavos.png" group-title="URUGUAY", UR: CANAL 4 SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3766
-
-#EXTINF:-1 tvg-id="UR: CANAL 7 PUNTA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Canal7TWnlhy.png" group-title="URUGUAY", UR: CANAL 7 PUNTA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3773
-
-#EXTINF:-1 tvg-id="UR: CANAL M" tvg-logo="https://www.canalm.tv/plantillas/temas17/canal-M-17/images/canalm@3.png" group-title="URUGUAY", UR: CANAL M
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3775
-
-#EXTINF:-1 tvg-id="UR: CANAL U" tvg-logo="https://pbs.twimg.com/profile_images/677848441922392064/72VWS8Lq_400x400.jpg" group-title="URUGUAY", UR: CANAL U
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3781
-
-#EXTINF:-1 tvg-id="UR: CHARRUA TV" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/charrua-tv.png" group-title="URUGUAY", UR: CHARRUA TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3767
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="URUGUAY", UR: GOLTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3760
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/LogoLaRed2018.png/200px-LogoLaRed2018.png" group-title="URUGUAY", UR: LA RED
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55001
-
-#EXTINF:-1 tvg-id="UR: LA TELE FHD" tvg-logo="noimage.png" group-title="URUGUAY", UR: LA TELE FHD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/55002
-
-#EXTINF:-1 tvg-id="UR: MARONAS E" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/04/maro%C3%B1as-tv.png" group-title="URUGUAY", UR: MARONAS E
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3776
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Saeta_Logo.svg/1200px-Saeta_Logo.svg.png" group-title="URUGUAY", UR: SAETA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/43272
-
-#EXTINF:-1 tvg-id="UR: SAETA, CANAL 10 (ꜰʜᴅ)" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="URUGUAY", CANAL 10 (ꜰʜᴅ)
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3763
-
-#EXTINF:-1 tvg-id="UR: SAETA, CANAL 10 ⁽ᴴᴰ⁾" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/04/canal-10-uruguay-en-vivo.png" group-title="URUGUAY", CANAL 10 ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3761
-
-#EXTINF:-1 tvg-id="UR: TELEDOCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="URUGUAY", UR: TELEDOCE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3778
-
-#EXTINF:-1 tvg-id="UR: TELEDOCE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Teledoce_logo_2004.png" group-title="URUGUAY", UR: TELEDOCE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3759
-
-#EXTINF:-1 tvg-id="UR: TV CIUDAD" tvg-logo="https://pbs.twimg.com/profile_images/1244647586872557568/51rDOUbu_400x400.jpg" group-title="URUGUAY", UR: TV CIUDAD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3779
-
-#EXTINF:-1 tvg-id="UR: TV NACIONAL" tvg-logo="noimage.png" group-title="URUGUAY", UR: TV NACIONAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3780
-
-#EXTINF:-1 tvg-id="UR: VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="URUGUAY", UR: VTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54099
-
-#EXTINF:-1 tvg-id="UR: VTV + ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/600px-VTV%2BUruguay.svg.png" group-title="URUGUAY", UR: VTV + ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/49961
-
-#EXTINF:-1 tvg-id="UR: VTV + ⁽ᵃ⁾" tvg-logo="noimage.png" group-title="URUGUAY", UR: VTV + ⁽ᵃ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/49962
-
-#EXTINF:-1 tvg-id="UR: VTV ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="URUGUAY", UR: VTV ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3756
-
-#EXTINF:-1 tvg-id="UR: VTV ⁽ᴹ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/LogoVTV2015.png" group-title="URUGUAY", UR: VTV ⁽ᴹ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/3755
-
-#EXTINF:-1 tvg-id="USA: ABC Atlanta" tvg-logo="https://www.wsbtv.com/pb/resources/images/share_logos/WSB_1200x630.png" group-title="USA", USA: ABC Atlanta
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54979
-
-#EXTINF:-1 tvg-id="USA: ABC Chicago" tvg-logo="https://nabjchicago.org/wp-content/uploads/2018/01/WLS-TV_ABC7_Chicago.png" group-title="USA", USA: ABC Chicago
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61832
-
-#EXTINF:-1 tvg-id="USA: ABC Houston" tvg-logo="https://cdn.abcotvs.net/abcotv/static/ktrk/logos/ktrk_logo_2x.png" group-title="USA", USA: ABC Houston
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61833
-
-#EXTINF:-1 tvg-id="USA: ABC Los Angeles" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8e/KABC-TV_Logo.png" group-title="USA", USA: ABC Los Angeles
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61834
-
-#EXTINF:-1 tvg-id="USA: ABC Miami" tvg-logo="https://img2.wikia.nocookie.net/__cb20101113195545/logopedia/images/6/62/WPLG_Local_10_ABC.png" group-title="USA", USA: ABC Miami
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61835
-
-#EXTINF:-1 tvg-id="USA: ABC New York" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Wabc_2013.png" group-title="USA", USA: ABC New York
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61836
-
-#EXTINF:-1 tvg-id="USA: ABC New York ⁽ᴴᴰ⁾" tvg-logo="noimage.png" group-title="USA", USA: ABC New York ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61837
-
-#EXTINF:-1 tvg-id="USA: AMC" tvg-logo="https://new.lamac.org/system/channels_logos/logos/000/000/001/original/pic_amc.png?1523886734" group-title="USA", USA: AMC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15572
-
-#EXTINF:-1 tvg-id="USA: CBS NEW YORK ⁽ᴴᴰ⁾" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CBS_2.png" group-title="USA", USA: CBS NEW YORK ⁽ᴴᴰ⁾
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61594
-
-#EXTINF:-1 tvg-id="USA: CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png" group-title="USA", USA: CNBC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61861
-
-#EXTINF:-1 tvg-id="USA: CNN" tvg-logo="https://cdn.imgbin.com/11/23/18/imgbin-cnn-logo-of-nbc-fox-news-cnn-EA2sXbiUE8kiMX2yAHuJ7Wz85.jpg" group-title="USA", USA: CNN
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15576
-
-#EXTINF:-1 tvg-id="USA: COMEDY CENTRAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png" group-title="USA", USA: COMEDY CENTRAL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61593
-
-#EXTINF:-1 tvg-id="USA: Cooking Channel HD" tvg-logo="https://www.vhv.rs/dpng/d/518-5184093_cooking-channel-hd-png-download.png" group-title="USA", USA: Cooking Channel HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54980
-
-#EXTINF:-1 tvg-id="USA: Destination America HD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/destinationamerica.png" group-title="USA", USA: Destination America HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54981
-
-#EXTINF:-1 tvg-id="USA: DISCOVERY CHANNEL" tvg-logo="https://i7.pngflow.com/pngimage/482/735/png-discovery-channel-television-channel-logo-television-show-others-television-globe-logo-world-clipart.png" group-title="USA", USA: DISCOVERY CHANNEL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41834
-
-#EXTINF:-1 tvg-id="USA: DISCOVERY LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/Discovery_life_logo.png" group-title="USA", USA: DISCOVERY LIFE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41835
-
-#EXTINF:-1 tvg-id="USA: Discovery Life HD" tvg-logo="https://e7.pngegg.com/pngimages/82/96/png-clipart-discovery-life-discovery-inc-television-channel-television-show-discovery-hd-showcase-television-text.png" group-title="USA", USA: Discovery Life HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54982
-
-#EXTINF:-1 tvg-id="USA: DISCOVERY SCIENCE" tvg-logo="https://w7.pngwing.com/pngs/34/404/png-transparent-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text-trademark.png" group-title="USA", USA: DISCOVERY SCIENCE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41836
-
-#EXTINF:-1 tvg-id="USA: Discovery Science HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="USA", USA: Discovery Science HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54983
-
-#EXTINF:-1 tvg-id="USA: DISCOVERY VELOCITY" tvg-logo="https://i0.pngocean.com/files/145/933/222/velocity-television-channel-television-show-discovery-channel-others-thumb.jpg" group-title="USA", USA: DISCOVERY VELOCITY
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41837
-
-#EXTINF:-1 tvg-id="USA: Discovery Velocity HD" tvg-logo="https://1.bp.blogspot.com/-4fNOZlvPkkA/ThKLxX--_6I/AAAAAAAABtc/7ZK84Oo7Mdg/s500/Velocity+logo+2011.png" group-title="USA", USA: Discovery Velocity HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54984
-
-#EXTINF:-1 tvg-id="USA: DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png" group-title="USA", USA: DISNEY XD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41838
-
-#EXTINF:-1 tvg-id="USA: ESPN 2" tvg-logo="https://i.ya-webdesign.com/images/espn-2-logo-png-1.png" group-title="USA", USA: ESPN 2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41839
-
-#EXTINF:-1 tvg-id="USA: ESPN U" tvg-logo="https://w7.pngwing.com/pngs/878/380/png-transparent-united-states-espnu-logo-espn2-u-television-text-logo.png" group-title="USA", USA: ESPN U
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41840
-
-#EXTINF:-1 tvg-id="USA: FOX 11 DALLAS" tvg-logo="https://i0.pngocean.com/files/578/689/278/fox-11-news-wluk-tv-green-bay-television-others.jpg" group-title="USA", USA: FOX 11 DALLAS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41841
-
-#EXTINF:-1 tvg-id="USA: FOX 5 ATLANTA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/WAGA-TV_logo.png" group-title="USA", USA: FOX 5 ATLANTA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41842
-
-#EXTINF:-1 tvg-id="USA: FOX BOSTON" tvg-logo="https://www.bostonherald.com/wp-content/uploads/migration/2014/12/04/FOX_25_WFXT_Boston.png" group-title="USA", USA: FOX BOSTON
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41843
-
-#EXTINF:-1 tvg-id="USA: Fox Business HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Fox_Business_Logo.svg/1200px-Fox_Business_Logo.svg.png" group-title="USA", USA: Fox Business HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54978
-
-#EXTINF:-1 tvg-id="USA: FOX CHICAGO" tvg-logo="data:image/jpeg;base64,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" group-title="USA", USA: FOX CHICAGO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41844
-
-#EXTINF:-1 tvg-id="USA: FOX LOS ANGELES" tvg-logo="noimage.png" group-title="USA", USA: FOX LOS ANGELES
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40960
-
-#EXTINF:-1 tvg-id="USA: FOX LOS ANGELES*" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2e/KTTV_Fox_11_logo.png" group-title="USA", USA: FOX LOS ANGELES*
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41846
-
-#EXTINF:-1 tvg-id="USA: FOX MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/WSVN_7_Miami_logo.png" group-title="USA", USA: FOX MIAMI
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40959
-
-#EXTINF:-1 tvg-id="USA: FOX NEW CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png" group-title="USA", USA: FOX NEW CHANNEL
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40950
-
-#EXTINF:-1 tvg-id="USA: FOX NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/WNYW5.png" group-title="USA", USA: FOX NEW YORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40958
-
-#EXTINF:-1 tvg-id="USA: FOX SEATLE" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/fox-s.png" group-title="USA", USA: FOX SEATLE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40957
-
-#EXTINF:-1 tvg-id="USA: FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="USA", USA: FOX SPORTS 1
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40955
-
-#EXTINF:-1 tvg-id="USA: FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="USA", USA: FOX SPORTS 2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40956
-
-#EXTINF:-1 tvg-id="USA: FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1280px-FXX_Logo.svg.png" group-title="USA", USA: FXX
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61959
-
-#EXTINF:-1 tvg-id="USA: H2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="USA", USA: H2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61960
-
-#EXTINF:-1 tvg-id="USA: HALLMARK" tvg-logo="noimage.png" group-title="USA", USA: HALLMARK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40951
-
-#EXTINF:-1 tvg-id="USA: HALLMARK MOVIES & MYSTERIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/43/Hallmark_movies_mysteries.png" group-title="USA", USA: HALLMARK MOVIES & MYSTERIES
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40952
-
-#EXTINF:-1 tvg-id="USA: HBO" tvg-logo="https://www.pngfind.com/pngs/m/71-717908_hbo-logo-png-download-hbo-logo-high-res.png" group-title="USA", USA: HBO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15574
-
-#EXTINF:-1 tvg-id="USA: HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="USA", USA: HBO 2
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15575
-
-#EXTINF:-1 tvg-id="hboplus.la" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="USA", USA: HBO PLUS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40972
-
-#EXTINF:-1 tvg-id="USA: HBO SIGNATURE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png" group-title="USA", USA: HBO SIGNATURE
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15579
-
-#EXTINF:-1 tvg-id="USA: HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="USA", USA: HGTV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40953
-
-#EXTINF:-1 tvg-id="USA: HISTORY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="USA", USA: HISTORY
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/61961
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="USA", USA: INVESTIGATION DISCOVERY
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40973
-
-#EXTINF:-1 tvg-id="USA: NATIONAL GEOGRAPHIC" tvg-logo="https://static.wixstatic.com/media/7d5e4a_aef99ce9f28b401d8ea0df52a61c85f6~mv2_d_3291_1441_s_2.png/v1/fill/w_308,h_146,al_c,q_85,usm_0.66_1.00_0.01/Logo%20NatGeo.webp" group-title="USA", USA: NATIONAL GEOGRAPHIC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41847
-
-#EXTINF:-1 tvg-id="USA: NBC CALIFORNIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/1200px-NBC_2013_Logo.svg.png" group-title="USA", USA: NBC CALIFORNIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40944
-
-#EXTINF:-1 tvg-id="USA: NBC CHICAGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/NBC_logo.svg" group-title="USA", USA: NBC CHICAGO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15569
-
-#EXTINF:-1 tvg-id="USA: NBC DETROIT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/1200px-NBC_2013_Logo.svg.png" group-title="USA", USA: NBC DETROIT
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40946
-
-#EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/1200px-NBC_2013_Logo.svg.png" group-title="USA", USA: NBC MIAMI
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40943
-
-#EXTINF:-1 tvg-id="USA: NBC NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/1200px-NBC_2013_Logo.svg.png" group-title="USA", USA: NBC NEW YORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40945
-
-#EXTINF:-1 tvg-id="USA: NBC PHILADELPHIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/1200px-NBC_2013_Logo.svg.png" group-title="USA", USA: NBC PHILADELPHIA
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40947
-
-#EXTINF:-1 tvg-id="USA: NBC UNIVERSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/NBC_Universo_logo.svg" group-title="USA", USA: NBC UNIVERSO
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15571
-
-#EXTINF:-1 tvg-id="USA: NBCSN Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="USA", USA: NBCSN Sports
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/54986
-
-#EXTINF:-1 tvg-id="USA: NESN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/New_England_Sports_Network_%28logo%29.png" group-title="USA", USA: NESN SPORTS
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40970
-
-#EXTINF:-1 tvg-id="USA: NHL NETWORK" tvg-logo="https://img2.freepng.es/20180204/doq/kisspng-national-hockey-league-nhl-network-logo-ice-hockey-nhl-png-pic-5a773abef27ea5.6011185015177632629933.jpg" group-title="USA", USA: NHL NETWORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40971
-
-#EXTINF:-1 tvg-id="USA: STARZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Starz_2008.png" group-title="USA", USA: STARZ
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/15573
-
-#EXTINF:-1 tvg-id="USA: TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TLC_USA_logo.png" group-title="USA", USA: TLC
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40964
-
-#EXTINF:-1 tvg-id="USA: TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA", USA: TNT
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/67986
-
-#EXTINF:-1 tvg-id="USA: UNIMAS NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png" group-title="USA", USA: UNIMAS NEW YORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/16690
-
-#EXTINF:-1 tvg-id="USA: UNIVISION WEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="USA", USA: UNIVISION WEST
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53421
-
-#EXTINF:-1 tvg-id="USA: USA NETWORK" tvg-logo="https://image.flaticon.com/icons/png/512/826/826360.png" group-title="USA", USA: USA NETWORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40954
-
-#EXTINF:-1 tvg-id="USA: WORLD FISHING NETWORK" tvg-logo="https://w7.pngwing.com/pngs/76/459/png-transparent-world-fishing-network-television-angling-logo-fishing-brand-television-text-logo.png" group-title="USA", USA: WORLD FISHING NETWORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40962
-
-#EXTINF:-1 tvg-id="USA: YES NETWORK" tvg-logo="https://toppng.com/uploads/preview/yes-network-logo-yes-network-logo-11563063722owcqddie4k.png" group-title="USA", USA: YES NETWORK
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40963
 
 #EXTINF:-1 tvg-id="#0.sp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/CBN_logo.svg/1280px-CBN_logo.svg.png" group-title="USA LATINO", USA: CBN ESPAÑOL
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/40948
@@ -4159,28 +2608,4 @@ http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/53423
 
 #EXTINF:-1 tvg-id="USA: UNIVISION TELENOVELAS" tvg-logo="noimage.png" group-title="USA LATINO", USA: UNIVISION TELENOVELAS
 http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/41832
-
-#EXTINF:-1 tvg-id="Venezuela - Globovision SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/7581b24dba22d216a8a6de78e4633597.png" group-title="VENEZUELA", Venezuela - Globovision SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63505
-
-#EXTINF:-1 tvg-id="Venezuela - Meridiano TV" tvg-logo="http://144.217.91.146/Logos/Venezuela/meridiantotv.png" group-title="VENEZUELA", Venezuela - Meridiano TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63500
-
-#EXTINF:-1 tvg-id="Venezuela - Telesur" tvg-logo="http://tv.iptv5latino.cl:8000/images/1ef1aba0ea4401b01f60755c772f8cd9.png" group-title="VENEZUELA", Venezuela - Telesur
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63506
-
-#EXTINF:-1 tvg-id="Venezuela - Televen SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/95190886d5d10e6835f56a5564c925a1.png" group-title="VENEZUELA", Venezuela - Televen SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63509
-
-#EXTINF:-1 tvg-id="Venezuela - Vale TV" tvg-logo="http://tv.iptv5latino.cl:8000/images/a49e47b475cc05bb1dccc17a5b8380b5.png" group-title="VENEZUELA", Venezuela - Vale TV
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63510
-
-#EXTINF:-1 tvg-id="Venezuela - Ve Plus SD" tvg-logo="http://tv.iptv5latino.cl:8000/images/82851fe08d2f4192a8256738db91892a.png" group-title="VENEZUELA", Venezuela - Ve Plus SD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63501
-
-#EXTINF:-1 tvg-id="Venezuela - Venevision" tvg-logo="http://tv.iptv5latino.cl:8000/images/25b808f50f61d2e419ae7b6f6cc287d4.png" group-title="VENEZUELA", Venezuela - Venevision
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63502
-
-#EXTINF:-1 tvg-id="Venezuela - Vive HD" tvg-logo="http://tv.iptv5latino.cl:8000/images/6ee7a5fa65a99c3352a663bb6c1c52ea.png" group-title="VENEZUELA", Venezuela - Vive HD
-http://tv.iptv5latino.cl:8080/juan2salinas/9vy4yV5bgT/63507
 
