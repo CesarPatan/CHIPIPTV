@@ -350,3 +350,6 @@ http://tv.iptv5latino.cl:8080/series/juan2salinas/9vy4yV5bgT/67953.mp4
 #EXTINF:-1 tvg-id="Loki S01 E01" tvg-logo="http://tv.iptv5latino.cl:8080/images/cdc731f2c71199d4edb86bef15453f6a.jpg" group-title="DISNEY + SERIES", Loki S01 E01
 http://tv.iptv5latino.cl:8080/series/juan2salinas/9vy4yV5bgT/68677.mkv
 
+#EXTINF:-1 tvg-id="Loki S01 E02" tvg-logo="http://tv.iptv5latino.cl:8080/images/67f39b9a002fb18a92c3b7de5ce5f288.jpg" group-title="DISNEY + SERIES", Loki S01 E02
+http://tv.iptv5latino.cl:8080/series/juan2salinas/9vy4yV5bgT/68918.mkv
+
