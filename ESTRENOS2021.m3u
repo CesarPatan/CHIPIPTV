@@ -50,6 +50,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64626.mp4
 #EXTINF:-1 tvg-id="Cruella (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5bsApWAUqb0jeXtHPjKQ6MZOtZJ.jpg" group-title="ESTRENOS 2021", Cruella (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67977.mkv
 
+#EXTINF:-1 tvg-id="Dancing Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="ESTRENOS 2021", Dancing Queens (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68885.mkv
+
 #EXTINF:-1 tvg-id="Desnúdate, rebélate (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CXQ5zOrhHGcw1imsRMwa7W8izS.jpg" group-title="ESTRENOS 2021", rebélate (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64604.mp4
 
@@ -61,6 +64,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/63614.mp4
 
 #EXTINF:-1 tvg-id="Dificil de Matar" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7Dc6FTBYOfwMDEHSGW6EOitidk.jpg" group-title="ESTRENOS 2021", Dificil de Matar
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/65391.mkv
+
+#EXTINF:-1 tvg-id="Dulce y amargo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq7H7KIWBFwQ0kv72pQoSuhaUlr.jpg" group-title="ESTRENOS 2021", Dulce y amargo (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68884.mp4
 
 #EXTINF:-1 tvg-id="Ejército de los muertos (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVXLDoEskRVUl8SaRh2lieY5STg.jpg" group-title="ESTRENOS 2021", Ejército de los muertos (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67593.mkv
@@ -76,6 +82,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68032.mkv
 
 #EXTINF:-1 tvg-id="El Dia del Fin del Mundo - Greenland, el último refugio" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ltlKaXvIHMTOgxqVbZSGUqcExuN.jpg" group-title="ESTRENOS 2021", el último refugio
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/61829.mp4
+
+#EXTINF:-1 tvg-id="El dragón de la tetera (2021)" tvg-logo="noimage.png" group-title="ESTRENOS 2021", El dragón de la tetera (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68871.mkv
 
 #EXTINF:-1 tvg-id="El mapa de las pequeñas cosas perfectas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6y3ev0rJFbHA1hU22UPmmfzBjrG.jpg" group-title="ESTRENOS 2021", El mapa de las pequeñas cosas perfectas (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64609.mkv
@@ -131,6 +140,12 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64681.mkv
 #EXTINF:-1 tvg-id="Héroes: silencio y rock & roll (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gshYpoEqTh3N2xMSr0TqCGDuruj.jpg" group-title="ESTRENOS 2021", Héroes: silencio y rock & roll (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/65710.mkv
 
+#EXTINF:-1 tvg-id="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="ESTRENOS 2021", Infinite (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68872.mkv
+
+#EXTINF:-1 tvg-id="Juan Luis Guerra 4.40: Entre Mar Y Palmeras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxZRjdT9scyeSmTuzGL6vUPSU5.jpg" group-title="ESTRENOS 2021", Juan Luis Guerra 4.40: Entre Mar Y Palmeras (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68887.mkv
+
 #EXTINF:-1 tvg-id="Justicia Implacable (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emM894kjspdQsHyTAF7sjRNlbTr.jpg" group-title="ESTRENOS 2021", Justicia Implacable (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67979.mkv
 
@@ -166,6 +181,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/63612.mkv
 
 #EXTINF:-1 tvg-id="Las niñas (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xVBDEeY2qvNh5m0SAgBywLNXLjp.jpg" group-title="ESTRENOS 2021", Las niñas (2020)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64625.mkv
+
+#EXTINF:-1 tvg-id="Los Kandasamy: El viaje (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg" group-title="ESTRENOS 2021", Los Kandasamy: El viaje (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68886.mkv
 
 #EXTINF:-1 tvg-id="Major Grom: Plague Doctor (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBkZlG55CprznYxwUcGY6r3ZXP6.jpg" group-title="ESTRENOS 2021", Major Grom: Plague Doctor (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67617.mp4
@@ -227,6 +245,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64638.mkv
 #EXTINF:-1 tvg-id="Pelé (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVKAep8V6rrFh0IhABC0bkzjwK5.jpg" group-title="ESTRENOS 2021", Pelé (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/63616.mkv
 
+#EXTINF:-1 tvg-id="Plan B (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYWWORzYJrs6qXUO4JeRll2zdAZ.jpg" group-title="ESTRENOS 2021", Plan B (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68890.mkv
+
 #EXTINF:-1 tvg-id="Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ULCVKQEC6Lq61ILKByNRcffKu.jpg" group-title="ESTRENOS 2021", Pretty Guardian Sailor Moon Eternal: La película - 1.ª parte (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68033.mkv
 
@@ -244,6 +265,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/63972.mkv
 
 #EXTINF:-1 tvg-id="Ruega por nosotros (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPoOn553ARmSQl0ChKTlGDvYq9x.jpg" group-title="ESTRENOS 2021", Ruega por nosotros (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67980.mkv
+
+#EXTINF:-1 tvg-id="Salida Francesa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ8STa7n95a2IjxTDFcOPiI8FhP.jpg" group-title="ESTRENOS 2021", Salida Francesa (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68893.mkv
 
 #EXTINF:-1 tvg-id="Scooby-Doo! The Sword and the Scoob (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cjwji8a2Os0Ew3iJyKRlGlQUhXJ.jpg" group-title="ESTRENOS 2021", Scooby-Doo! The Sword and the Scoob (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/63617.mkv
@@ -308,6 +332,9 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/63970.mkv
 #EXTINF:-1 tvg-id="Violento y Furioso" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fn8HlaS8CiC5s57E3FKJgzLOCJx.jpg" group-title="ESTRENOS 2021", Violento y Furioso
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67611.mkv
 
+#EXTINF:-1 tvg-id="Voyagers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg" group-title="ESTRENOS 2021", Voyagers (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68883.mkv
+
 #EXTINF:-1 tvg-id="Willy's Wonderland (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/keEnkeAvifw8NSEC4f6WsqeLJgF.jpg" group-title="ESTRENOS 2021", Willy's Wonderland (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67515.mkv
 
@@ -323,32 +350,11 @@ http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64658.mkv
 #EXTINF:-1 tvg-id="Érase una vez en Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0YSRcw3co1roXiyCFxILxw9ndt.jpg" group-title="ESTRENOS 2021", Érase una vez en Queens (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/67959.mkv
 
-#EXTINF:-1 tvg-id="El dragón de la tetera (2021)" tvg-logo="noimage.png" group-title="ESTRENOS 2021", El dragón de la tetera (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68871.mkv
+#EXTINF:-1 tvg-id="Luca (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jTswp6KyDYKtvC52GbHagrZbGvD.jpg" group-title="ESTRENOS 2021", Luca (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/69156.mkv
 
-#EXTINF:-1 tvg-id="Infinite (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niw2AKHz6XmwiRMLWaoyAOAti0G.jpg" group-title="ESTRENOS 2021", Infinite (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68872.mkv
-
-#EXTINF:-1 tvg-id="Voyagers (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gn2vCmWO7jQBBto9SYuBHYZARaU.jpg" group-title="ESTRENOS 2021", Voyagers (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68883.mkv
-
-#EXTINF:-1 tvg-id="Dulce y amargo (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq7H7KIWBFwQ0kv72pQoSuhaUlr.jpg" group-title="ESTRENOS 2021", Dulce y amargo (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68884.mp4
-
-#EXTINF:-1 tvg-id="Dancing Queens (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq2pkQZV5Yt1METvy5S0QjmCpsn.jpg" group-title="ESTRENOS 2021", Dancing Queens (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68885.mkv
-
-#EXTINF:-1 tvg-id="Los Kandasamy: El viaje (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tpuwM9fZFcMNkkGU0WwqPAEaFz.jpg" group-title="ESTRENOS 2021", Los Kandasamy: El viaje (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68886.mkv
-
-#EXTINF:-1 tvg-id="Juan Luis Guerra 4.40: Entre Mar Y Palmeras (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNxZRjdT9scyeSmTuzGL6vUPSU5.jpg" group-title="ESTRENOS 2021", Juan Luis Guerra 4.40: Entre Mar Y Palmeras (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68887.mkv
-
-#EXTINF:-1 tvg-id="Plan B (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYWWORzYJrs6qXUO4JeRll2zdAZ.jpg" group-title="ESTRENOS 2021", Plan B (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68890.mkv
-
-#EXTINF:-1 tvg-id="Salida Francesa (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ8STa7n95a2IjxTDFcOPiI8FhP.jpg" group-title="ESTRENOS 2021", Salida Francesa (2021)
-http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/68893.mkv
+#EXTINF:-1 tvg-id="Chica Skater (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4clsLFTodLinpcLtAxwHTF1zn1.jpg" group-title="ESTRENOS 2021", Chica Skater (2021)
+http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/69157.mkv
 
 #EXTINF:-1 tvg-id="Ilusiones mortales (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wj0PpS8cvXCNB3Wvhe6w5k0Nnke.jpg" group-title="ESTRENOS 2021", Ilusiones mortales (2021)
 http://tv.iptv5latino.cl:8080/movie/juan2salinas/9vy4yV5bgT/64710.mkv
